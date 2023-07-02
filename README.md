@@ -1,4 +1,3 @@
-# nmap
 The provided scripts demonstrate different scanning techniques using the Nmap tool and Lua programming language.
 
 Disclaimer: 
@@ -16,3 +15,16 @@ The author and contributors of these scripts do not provide any guarantee or war
 
 Please use these scripts responsibly and ethically.
 
+# nmap
+# LuaProgramming 
+# CodeExamples 
+# Scripting 
+# EthicalHacking 
+# NetworkSecurity 
+# Automation 
+# OpenSource 
+# CyberSecurity 
+# PenetrationTesting 
+# ProgrammingTips 
+# LuaScripts 
+# CodeSnippets
