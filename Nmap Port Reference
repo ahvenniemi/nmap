@@ -1,0 +1,1043 @@
+Port 1 - TCPMUX: TCP Port Service Multiplexer
+Port 5 - RJE (Remote Job Entry): Remote Job Entry
+Port 7 - Echo: Echo Protocol
+Port 9 - Discard: Discard Protocol
+Port 11 - Systat: System Status Protocol
+Port 13 - Daytime: Daytime Protocol
+Port 17 - QOTD (Quote of the Day): Quote of the Day Protocol
+Port 18 - MSP (Message Send Protocol): Message Send Protocol
+Port 19 - Chargen (Character Generator): Character Generator Protocol
+Port 20 - FTP Data: File Transfer Protocol (Data)
+Port 21 - FTP Control: File Transfer Protocol (Control)
+Port 22 - SSH (Secure Shell): Secure Shell Protocol
+Port 23 - Telnet: Telnet Protocol
+Port 25 - SMTP (Simple Mail Transfer Protocol): Simple Mail Transfer Protocol
+Port 26 - RSFTP (Restricted Shell FTP): Restricted Shell FTP
+Port 37 - Time: Time Protocol
+Port 39 - RLP (Resource Location Protocol): Resource Location Protocol
+Port 42 - WINS (Windows Internet Name Service): Windows Internet Name Service
+Port 43 - WHOIS: WHOIS Protocol
+Port 49 - TACACS (Terminal Access Controller Access Control System): Terminal Access Controller Access Control System
+Port 53 - DNS (Domain Name System): Domain Name System
+Port 69 - TFTP (Trivial File Transfer Protocol): Trivial File Transfer Protocol
+Port 70 - Gopher: Gopher Protocol
+Port 79 - Finger: Finger Protocol
+Port 80 - HTTP (Hypertext Transfer Protocol): Hypertext Transfer Protocol
+Port 81 - HOSTS2-NS: HOSTS2-NS Protocol
+Port 88 - Kerberos: Kerberos Protocol
+Port 102 - MS Exchange: Microsoft Exchange mail server
+Port 110 - POP3 (Post Office Protocol version 3): Post Office Protocol version 3
+Port 111 - RPCBIND (Remote Procedure Call Bind): Remote Procedure Call Bind
+Port 113 - Ident: Identification Protocol
+Port 119 - NNTP (Network News Transfer Protocol): Network News Transfer Protocol
+Port 123 - NTP (Network Time Protocol): Network Time Protocol
+Port 137 - NetBIOS Name Service: NetBIOS Name Service
+Port 138 - NetBIOS Datagram Service: NetBIOS Datagram Service
+Port 139 - NetBIOS Session Service: NetBIOS Session Service
+Port 143 - IMAP (Internet Message Access Protocol): Internet Message Access Protocol
+Port 161 - SNMP (Simple Network Management Protocol): Simple Network Management Protocol
+Port 179 - BGP (Border Gateway Protocol): Border Gateway Protocol
+Port 194 - IRC (Internet Relay Chat): Internet Relay Chat
+Port 201 - AppleTalk: AppleTalk Protocol
+Port 209 - Quick Mail Transfer Protocol: Quick Mail Transfer Protocol
+Port 213 - IPX (Internetwork Packet Exchange): Internetwork Packet Exchange
+Port 218 - MPP (Message Posting Protocol): Message Posting Protocol
+Port 220 - IMAP3 (Interactive Mail Access Protocol version 3): Interactive Mail Access Protocol version 3
+Port 259 - ESRO (Efficient Short Remote Operations): Efficient Short Remote Operations
+Port 264 - BGMP (Border Gateway Multicast Protocol): Border Gateway Multicast Protocol
+Port 280 - HTTP-NG (HyperText Transfer Protocol - Next Generation): HyperText Transfer Protocol - Next Generation
+Port 311 - ASIP (AppleShare IP): AppleShare IP
+Port 318 - TSP (Time Stamp Protocol): Time Stamp Protocol
+Port 319 - PTP Event: Precision Time Protocol Event
+Port 389 - LDAP (Lightweight Directory Access Protocol): Lightweight Directory Access Protocol
+Port 443 - HTTPS (HTTP Secure): HTTP Secure
+Port 444 - SNPP (Simple Network Paging Protocol): Simple Network Paging Protocol
+Port 445 - SMB (Server Message Block): Server Message Block
+Port 464 - Kerberos Change/Set Password: Kerberos Change/Set Password
+Port 465 - SMTPS (SMTP Secure): SMTP Secure
+Port 500 - ISAKMP (Internet Security Association and Key Management Protocol): Internet Security Association and Key Management Protocol
+Port 513 - Rlogin: Remote Login Protocol
+Port 514 - Syslog: Syslog Protocol
+Port 515 - LPD (Line Printer Daemon): Line Printer Daemon Protocol
+Port 520 - RIP (Routing Information Protocol): Routing Information Protocol
+Port 530 - RPC (Remote Procedure Call): Remote Procedure Call
+Port 540 - UUCP (Unix-to-Unix Copy Protocol): Unix-to-Unix Copy Protocol
+Port 542 - Commerce: Commerce Protocol
+Port 543 - klogin (Kerberos Login): Kerberos Login
+Port 544 - kshell (Kerberos Shell): Kerberos Shell
+Port 546 - DHCPv6 Client: Dynamic Host Configuration Protocol version 6 Client
+Port 547 - DHCPv6 Server: Dynamic Host Configuration Protocol version 6 Server
+Port 548 - AFP (Apple Filing Protocol): Apple Filing Protocol
+Port 554 - RTSP (Real-Time Streaming Protocol): Real-Time Streaming Protocol
+Port 556 - RFS (Remotefs): Remotefs Protocol
+Port 563 - NNTPS (Network News Transfer Protocol Secure): Network News Transfer Protocol Secure
+Port 587 - Submission (SMTP Submission): SMTP Submission
+Port 591 - FileMaker: FileMaker Protocol
+Port 593 - HTTP RPC Ep Map: HTTP RPC Ep Map
+Port 604 - TUNNEL: Tunnel Protocol
+Port 631 - IPP (Internet Printing Protocol): Internet Printing Protocol
+Port 636 - LDAPS (LDAP Secure): LDAP Secure
+Port 639 - MSDP (Multicast Source Discovery Protocol): Multicast Source Discovery Protocol
+Port 646 - LDP (Label Distribution Protocol): Label Distribution Protocol
+Port 648 - RRP (Registry Registrar Protocol): Registry Registrar Protocol
+Port 651 - IEEE MMS (IEEE Media Management System): IEEE Media Management System
+Port 654 - AODV (Ad hoc On-Demand Distance Vector): Ad hoc On-Demand Distance Vector
+Port 665 - Sun DR: Sun DR Protocol
+Port 674 - ACAP (Application Configuration Access Protocol): Application Configuration Access Protocol
+Port 691 - MS Exchange Routing: Microsoft Exchange Routing
+Port 694 - Linux-HA (Heartbeat): Linux-HA Protocol
+Port 695 - IEEE-MMS-SSL (IEEE Media Management System Secure): IEEE Media Management System Secure
+Port 698 - OLSR (Optimized Link State Routing): Optimized Link State Routing
+Port 700 - EPP (Extensible Provisioning Protocol): Extensible Provisioning Protocol
+Port 706 - SILC (Secure Internet Live Conferencing): Secure Internet Live Conferencing Protocol
+Port 711 - TDP (Tag Distribution Protocol): Tag Distribution Protocol
+Port 712 - TBRPF (Topology Broadcast based on Reverse-Path Forwarding): Topology Broadcast based on Reverse-Path Forwarding
+Port 749 - Kerberos (Kerberos administration): Kerberos administration
+Port 750 - kerberos-iv (Kerberos version IV): Kerberos version IV
+Port 751 - pump (Kerberos version IV): Kerberos version IV
+Port 752 - QRH (Kerberos version IV): Kerberos version IV
+Port 753 - RRH (Kerberos version IV): Kerberos version IV
+Port 754 - krb5_prop (Kerberos v5 slave propagation): Kerberos v5 slave propagation
+Port 760 - ksetpasswd (Kerberos version IV): Kerberos version IV
+Port 782 - Conserver serial-console management server: Conserver serial-console management server
+Port 829 - CMP (Certificate Management Protocol): Certificate Management Protocol
+Port 831 - NETCONF over SSH: NETCONF over SSH
+Port 832 - NETCONF over BEEP: NETCONF over BEEP
+Port 833 - NETCONF for SOAP over HTTPS: NETCONF for SOAP over HTTPS
+Port 847 - DHCP Failover: Dynamic Host Configuration Protocol Failover
+Port 848 - GDOI (Group Domain of Interpretation): Group Domain of Interpretation
+Port 853 - DNS-over-TLS: DNS-over-TLS
+Port 854 - DLS (Data Link Switching): Data Link Switching
+Port 860 - iSCSI (Internet Small Computer Systems Interface): Internet Small Computer Systems Interface
+Port 861 - OWAMP (One-Way Active Measurement Protocol): One-Way Active Measurement Protocol
+Port 873 - rsync: rsync Protocol
+Port 902 - VMware Server Console: VMware Server Console
+Port 904 - VMware Server Alternate: VMware Server Alternate
+Port 981 - SofaWare transport protocol: SofaWare transport protocol
+Port 989 - FTPS Data (FTP Secure Data): FTP Secure Data
+Port 990 - FTPS (FTP Secure): FTP Secure
+Port 991 - NAS (Netnews Administration System): Netnews Administration System
+Port 992 - TELNETS (Telnet Secure): Telnet Secure
+Port 993 - IMAPS (Internet Message Access Protocol Secure): Internet Message Access Protocol Secure
+Port 994 - IRCS (Internet Relay Chat Secure): Internet Relay Chat Secure
+Port 995 - POP3S (Post Office Protocol 3 Secure): Post Office Protocol 3 Secure
+Port 996 - vsinet: vsinet
+Port 997 - maitrd: maitrd
+Port 998 - puparp: puparp
+Port 999 - garcon: garcon
+Port 1000 - cadlock: cadlock
+Port 1001 - webpush: webpush
+Port 1002 - windows-icfw: windows-icfw
+Port 1007 - ASA Message Router Object Def.: ASA Message Router Object Definition
+Port 1010 - surf: surf
+Port 1021 - Exp1: Exp1
+Port 1022 - Exp2: Exp2
+Port 1023 - Exp3: Exp3
+Port 1024 - Reserved: Reserved
+Port 1025 - NFS or IIS (Internet Information Services): Network File System or Internet Information Services
+Port 1026 - Calendar Access Protocol: Calendar Access Protocol
+Port 1027 - IIS (Internet Information Services): Internet Information Services
+Port 1028 - Deprecated: Deprecated
+Port 1029 - DEPRECATED: Deprecated
+Port 1030 - IIS (Internet Information Services): Internet Information Services
+Port 1031 - IIS (Internet Information Services): Internet Information Services
+Port 1032 - IIS (Internet Information Services): Internet Information Services
+Port 1033 - IIS (Internet Information Services): Internet Information Services
+Port 1034 - IIS (Internet Information Services): Internet Information Services
+Port 1035 - IIS (Internet Information Services): Internet Information Services
+Port 1036 - Nebula Secure Segment Transfer Protocol: Nebula Secure Segment Transfer Protocol
+Port 1037 - AMS (Appletalk Update-Based Routing Pro.) AppleTalk Update-Based Routing Protocol
+Port 1038 - MTQP (Message Tracking Query Protocol): Message Tracking Query Protocol
+Port 1039 - Streamlined Blackhole: Streamlined Blackhole
+Port 1040 - Netarx Netcare: Netarx Netcare
+Port 1041 - AK2 Product: AK2 Product
+Port 1042 - Subnet Roaming: Subnet Roaming
+Port 1043 - BOINC Client Control: BOINC Client Control
+Port 1044 - DCutility: DCutility
+Port 1045 - Rascal (Robot Access Server Control Language): Rascal Robot Access Server Control Language
+Port 1046 - WebFilter Remote Monitor: WebFilter Remote Monitor
+Port 1047 - Sun's NEO Object Request Broker: Sun's NEO Object Request Broker
+Port 1048 - Sun's NEO Object Request Broker: Sun's NEO Object Request Broker
+Port 1049 - Tobit David Postman VPMN: Tobit David Postman VPMN
+Port 1050 - CORBA Management Agent: CORBA Management Agent
+Port 1051 - Optima VNET: Optima VNET
+Port 1052 - Dynamic DNS Tools: Dynamic DNS Tools
+Port 1053 - Remote Assistant (RA): Remote Assistant (RA)
+Port 1054 - BRVREAD: BRVREAD
+Port 1055 - Ansys - Remote Solver Manager: Ansys Remote Solver Manager
+Port 1056 - VFO: VFO
+Port 1057 - STARTRON: STARTRON
+Port 1058 - nim: nim
+Port 1059 - nimreg: nimreg
+Port 1060 - POLESTAR: POLESTAR
+Port 1061 - KIOSK: KIOSK
+Port 1062 - Veracity: Veracity
+Port 1063 - KyoceraNetDev: KyoceraNetDev
+Port 1064 - JSTEL: JSTEL
+Port 1065 - SYSCOMLAN: SYSCOMLAN
+Port 1066 - FPO-FNS: FPO-FNS
+Port 1067 - Installation Bootstrap Proto. Serv.: Installation Bootstrap Protocol Server
+Port 1068 - Installation Bootstrap Proto. Cli.: Installation Bootstrap Protocol Client
+Port 1069 - COGNEX-INSIGHT: COGNEX-INSIGHT
+Port 1070 - GMRUpdateSERV: GMRUpdateSERV
+Port 1071 - BSQUARE-VOIP: BSQUARE-VOIP
+Port 1072 - CARDAX: CARDAX
+Port 1073 - Bridge Control: Bridge Control
+Port 1074 - FASTechnologies License Manager: FASTechnologies License Manager
+Port 1075 - RDRMSHC: RDRMSHC
+Port 1076 - DAB STI-C: DAB STI-C
+Port 1077 - IMGames: IMGames
+Port 1078 - Avocent Proxy Protocol: Avocent Proxy Protocol
+Port 1079 - ASPROVATalk: ASPROVATalk
+Port 1080 - SOCKS Proxy: SOCKS Proxy
+Port 1081 - PVUNIWIEN: PVUNIWIEN
+Port 1082 - AMT-ESD-PROT: AMT-ESD-PROT
+Port 1083 - Anasoft License Manager: Anasoft License Manager
+Port 1084 - Anasoft License Manager: Anasoft License Manager
+Port 1085 - WebObjects: WebObjects
+Port 1086 - CPL Scrambler Logging: CPL Scrambler Logging
+Port 1087 - CPL Scrambler Internal: CPL Scrambler Internal
+Port 1088 - CPL Scrambler Alarm Log: CPL Scrambler Alarm Log
+Port 1089 - FF Annunciation: FF Annunciation
+Port 1090 - FF Fieldbus Message Specification: FF Fieldbus Message Specification
+Port 1091 - FF System Management: FF System Management
+Port 1092 - Open Business Reporting Protocol: Open Business Reporting Protocol
+Port 1093 - PROOFD: PROOFD
+Port 1094 - ROOTD: ROOTD
+Port 1095 - NICELink: NICELink
+Port 1096 - Common Name Resolution Protocol: Common Name Resolution Protocol
+Port 1097 - Sun Cluster Manager: Sun Cluster Manager
+Port 1098 - RMI Activation: RMI Activation
+Port 1099 - RMI Registry: RMI Registry
+Port 1100 - MCTP: MCTP
+Port 1101 - PT2-DISCOVER: PT2-DISCOVER
+Port 1102 - Adobeserver-1: Adobeserver-1
+Port 1103 - Adobeserver-2: Adobeserver-2
+Port 1104 - XRL: XRL
+Port 1105 - FTRANHCNETS: FTRANHCNETS
+Port 1106 - ISOIPSIGPORT-1: ISOIPSIGPORT-1
+Port 1107 - ISOIPSIGPORT-2: ISOIPSIGPORT-2
+Port 1108 - ratio-adp: ratio-adp
+Port 1109 - KPOP: KPOP
+Port 1110 - NFSI-IMA: NFSI-IMA
+Port 1111 - LM Social Server: LM Social Server
+Port 1112 - Intelligent Communication Protocol: Intelligent Communication Protocol
+Port 1113 - Licklider Transmission Protocol: Licklider Transmission Protocol
+Port 1114 - Mini SQL: Mini SQL
+Port 1115 - ARDUS Transfer Protocol: ARDUS Transfer Protocol
+Port 1116 - Cardbox: Cardbox
+Port 1117 - ARDUS Control: ARDUS Control
+Port 1118 - SACRED: SACRED
+Port 1119 - Battle.net Chat/Game Protocol: Battle.net Chat/Game Protocol
+Port 1120 - Battle.net File Transfer Protocol: Battle.net File Transfer Protocol
+Port 1121 - Datalode RMPP: Datalode RMPP
+Port 1122 - availant-mgr: availant-mgr
+Port 1123 - MURRAY: MURRAY
+Port 1124 - HP VMM Control: HP VMM Control
+Port 1125 - HP VMM Agent: HP VMM Agent
+Port 1126 - HP VMM Agent: HP VMM Agent
+Port 1127 - SUP debugging: SUP debugging
+Port 1128 - SAPHostControl over SOAP/HTTP: SAPHostControl over SOAP/HTTP
+Port 1129 - SAPHostControl over SOAP/HTTPS: SAPHostControl over SOAP/HTTPS
+Port 1130 - CAC App Service Protocol: CAC App Service Protocol
+Port 1131 - CAC App Service Protocol Encripted: CAC App Service Protocol Encripted
+Port 1132 - KVM-via-IP Management Service: KVM-via-IP Management Service
+Port 1133 - Data Flow Network: Data Flow Network
+Port 1134 - MicroAPL APLX: MicroAPL APLX
+Port 1135 - OmniVision Communication Service: OmniVision Communication Service
+Port 1136 - HHB Gateway Control: HHB Gateway Control
+Port 1137 - TRIM Workgroup Service: TRIM Workgroup Service
+Port 1138 - encrypted admin requests: encrypted admin requests
+Port 1139 - Evolution Capture: Evolution Capture
+Port 1140 - AutoNOC Network Operations Protocol: AutoNOC Network Operations Protocol
+Port 1141 - User Message Service: User Message Service
+Port 1142 - User Discovery Service: User Discovery Service
+Port 1143 - Infomatryx Exchange: Infomatryx Exchange
+Port 1144 - Fusion Scripting Port: Fusion Scripting Port
+Port 1145 - X9 iCue Show Control: X9 iCue Show Control
+Port 1146 - Audit transfer: Audit transfer
+Port 1147 - CAPIoverLAN: CAPIoverLAN
+Port 1148 - Elfiq Replication Service: Elfiq Replication Service
+Port 1149 - BVT Sonar Service: BVT Sonar Service
+Port 1150 - Blade Event Server: Blade Event Server
+Port 1151 - Unizensus Login Server: Unizensus Login Server
+Port 1152 - Winpopup LAN Messenger: Winpopup LAN Messenger
+Port 1153 - ANSI C12.22 Port: ANSI C12.22 Port
+Port 1154 - Community Service: Community Service
+Port 1155 - Network File Access: Network File Access
+Port 1156 - Vista Spy Data: Vista Spy Data
+Port 1157 - Oracle iASControl: Oracle iASControl
+Port 1158 - Oracle iASControl: Oracle iASControl
+Port 1159 - Oracle OMS: Oracle OMS
+Port 1160 - DB Lite Mult-User Server: DB Lite Mult-User Server
+Port 1161 - Health Polling: Health Polling
+Port 1162 - Health Trap: Health Trap
+Port 1163 - SmartDialer Data Protocol: SmartDialer Data Protocol
+Port 1164 - QSM Proxy Service: QSM Proxy Service
+Port 1165 - QSM GUI Service: QSM GUI Service
+Port 1166 - QSM RemoteExec: QSM RemoteExec
+Port 1167 - Cisco IP SLAs Control Protocol: Cisco IP SLAs Control Protocol
+Port 1168 - VChat Conference Service: VChat Conference Service
+Port 1169 - TRIPWIRE: TRIPWIRE
+Port 1170 - AT+C License Manager: AT+C License Manager
+Port 1171 - AT+C FmiApplicationServer: AT+C FmiApplicationServer
+Port 1172 - DNA Protocol: DNA Protocol
+Port 1173 - D-Cinema Request-Response: D-Cinema Request-Response
+Port 1174 - FlashNet Remote Admin: FlashNet Remote Admin
+Port 1175 - Dossier Server: Dossier Server
+Port 1176 - Indigo Home Server: Indigo Home Server
+Port 1177 - DKMessenger Protocol: DKMessenger Protocol
+Port 1178 - SKK (kanji input): SKK (kanji input)
+Port 1179 - Bomber: Bomber
+Port 1180 - Millicent Client Proxy: Millicent Client Proxy
+Port 1181 - 3Com Net Management: 3Com Net Management
+Port 1182 - AcceleNet Control: AcceleNet Control
+Port 1183 - LL Surfup HTTP: LL Surfup HTTP
+Port 1184 - LL Surfup HTTPS: LL Surfup HTTPS
+Port 1185 - Catchpole port: Catchpole port
+Port 1186 - MySQL Cluster Manager: MySQL Cluster Manager
+Port 1187 - Alias Service: Alias Service
+Port 1188 - HP Web Admin: HP Web Admin
+Port 1189 - Unet Connection: Unet Connection
+Port 1190 - CommLinx GPS / AVL System: CommLinx GPS / AVL System
+Port 1191 - General Parallel File System: General Parallel File System
+Port 1192 - caids sensors channel: caids sensors channel
+Port 1193 - Five Across Server: Five Across Server
+Port 1194 - OpenVPN: OpenVPN
+Port 1195 - RSF-1 clustering: RSF-1 clustering
+Port 1196 - Network Magic: Network Magic
+Port 1197 - Carrius Remote Access: Carrius Remote Access
+Port 1198 - Cajo reference discovery: Cajo reference discovery
+Port 1199 - DMIDI: DMIDI
+Port 1200 - SCOL: SCOL
+Port 1201 - Nucleus Sand Database Server: Nucleus Sand Database Server
+Port 1202 - caiccipc: caiccipc
+Port 1203 - License Validation: License Validation
+Port 1204 - Log Request Listener: Log Request Listener
+Port 1205 - Accord-MGC: Accord-MGC
+Port 1206 - Anthony Data: Anthony Data
+Port 1207 - MetaSage: MetaSage
+Port 1208 - SEAGULL AIS: SEAGULL AIS
+Port 1209 - IPCD3: IPCD3
+Port 1210 - EOSS: EOSS
+Port 1211 - Groove DPP: Groove DPP
+Port 1212 - lupa: lupa
+Port 1213 - MPC LIFENET: MPC LIFENET
+Port 1214 - Kazaa: Kazaa
+Port 1215 - PEST - Parehi/Ansur: PEST - Parehi/Ansur
+Port 1216 - ETEBAC 5: ETEBAC 5
+Port 1217 - HPSS-NDAPI: HPSS-NDAPI
+Port 1218 - AeroFlight-ADs: AeroFlight-ADs
+Port 1219 - AeroFlight-Ret: AeroFlight-Ret
+Port 1220 - QT SERVER ADMIN: QT SERVER ADMIN
+Port 1221 - SweetWARE Apps: SweetWARE Apps
+Port 1222 - SNI R&D network: SNI R&D network
+Port 1223 - TGP: TGP
+Port 1224 - VPNz: VPNz
+Port 1225 - SLINKYSEARCH: SLINKYSEARCH
+Port 1226 - STGXFWS: STGXFWS
+Port 1227 - DNS2Go: DNS2Go
+Port 1228 - FLORENCE: FLORENCE
+Port 1229 - Novell ZFS: Novell ZFS
+Port 1230 - Periscope: Periscope
+Port 1231 - menandmice-lpm: menandmice-lpm
+Port 1232 - Remote systems monitoring: Remote systems monitoring
+Port 1233 - Universal App Server: Universal App Server
+Port 1234 - Infoseek Search Agent: Infoseek Search Agent
+Port 1235 - Moshe Beeri: Moshe Beeri
+Port 1236 - Gracilis Packetenabler: Gracilis Packetenabler
+Port 1237 - tsdos390: tsdos390
+Port 1238 - Hacl-qs: Hacl-qs
+Port 1239 - NMSD: NMSD
+Port 1240 - Instantia: Instantia
+Port 1241 - Nessus Daemon: Nessus Daemon
+Port 1242 - NMAS over IP: NMAS over IP
+Port 1243 - SubSeven: SubSeven
+Port 1244 - isbconference2: isbconference2
+Port 1245 - isbconference1: isbconference1
+Port 1246 - payrouter: payrouter
+Port 1247 - visionpyramid: visionpyramid
+Port 1248 - hermes: hermes
+Port 1249 - M2PA: M2PA
+Port 1250 - swldy-sias: swldy-sias
+Port 1251 - servergraph: servergraph
+Port 1252 - bvtsonar: bvtsonar
+Port 1253 - Q55P: Q55P
+Port 1254 - de-noc: de-noc
+Port 1255 - de-cache-query: de-cache-query
+Port 1256 - de-server: de-server
+Port 1257 - Shockwave 2: Shockwave 2
+Port 1258 - Open Network Library: Open Network Library
+Port 1259 - Open Network Library Voice: Open Network Library Voice
+Port 1260 - mib-streaming: mib-streaming
+Port 1261 - udt_os: udt_os
+Port 1262 - QNTS-ORB: QNTS-ORB
+Port 1263 - DKA: DKA
+Port 1264 - PRAT: PRAT
+Port 1265 - DSSIAPI: DSSIAPI
+Port 1266 - DE-ORB: DE-ORB
+Port 1267 - eTrust Policy Compliance: eTrust Policy Compliance
+Port 1268 - PROPEL-MSGSYS: PROPEL-MSGSYS
+Port 1269 - WATiLaPP: WATiLaPP
+Port 1270 - Microsoft Operations Manager: Microsoft Operations Manager
+Port 1271 - eXcW: eXcW
+Port 1272 - eXcLicenseMgr: eXcLicenseMgr
+Port 1273 - emc-gateway: emc-gateway
+Port 1274 - t1distproc: t1distproc
+Port 1275 - ivcollector: ivcollector
+Port 1276 - ivmanager: ivmanager
+Port 1277 - mqs: mqs
+Port 1278 - DELL Web Admin 1: DELL Web Admin 1
+Port 1279 - DELL Web Admin 2: DELL Web Admin 2
+Port 1280 - Pictrography: Pictrography
+Port 1281 - healthd: healthd
+Port 1282 - Emperion: Emperion
+Port 1283 - Product Information: Product Information
+Port 1284 - IEE-QFX: IEE-QFX
+Port 1285 - neoiface: neoiface
+Port 1286 - netuitive: netuitive
+Port 1287 - routematch: routematch
+Port 1288 - navbuddy: navbuddy
+Port 1289 - jwalkserver: jwalkserver
+Port 1290 - winjaserver: winjaserver
+Port 1291 - SEAGULLLMS: SEAGULLLMS
+Port 1292 - dsdn: dsdn
+Port 1293 - pkagent: pkagent
+Port 1294 - cmmdriver: cmmdriver
+Port 1295 - end-by-serv: end-by-serv
+Port 1296 - dproxy: dproxy
+Port 1297 - sdproxy: sdproxy
+Port 1298 - lpcp: lpcp
+Port 1299 - hp-sci: hp-sci
+Port 1300 - H323 Host Call Secure: H323 Host Call Secure
+Port 1301 - CI3-Software-1: CI3-Software-1
+Port 1302 - CI3-Software-2: CI3-Software-2
+Port 1303 - sftsrv: sftsrv
+Port 1304 - boomerang: boomerang
+Port 1305 - peaklm: peaklm
+Port 1306 - rcadm: rcadm
+Port 1307 - pacmand: pacmand
+Port 1308 - odsi: odsi
+Port 1309 - jtag-server: jtag-server
+Port 1310 - husky: husky
+Port 1311 - rxmon: rxmon
+Port 1312 - sti-envision: sti-envision
+Port 1313 - bmc_patroldb: bmc_patroldb
+Port 1314 - pdps: pdps
+Port 1315 - els: els
+Port 1316 - exbit-escp: exbit-escp
+Port 1317 - vrts-ipcserver: vrts-ipcserver
+Port 1318 - krbc-ncp: krbc-ncp
+Port 1319 - amx-icsp: amx-icsp
+Port 1320 - amx-axbnet: amx-axbnet
+Port 1321 - pip: pip
+Port 1322 - novation: novation
+Port 1323 - brcd: brcd
+Port 1324 - delta-mcp: delta-mcp
+Port 1325 - dx-instrument: dx-instrument
+Port 1326 - wimsic: wimsic
+Port 1327 - ultrex: ultrex
+Port 1328 - ewall: ewall
+Port 1329 - netdb-export: netdb-export
+Port 1330 - streetperfect: streetperfect
+Port 1331 - intersan: intersan
+Port 1332 - pcia-rxp-b: pcia-rxp-b
+Port 1333 - passwrd-policy: passwrd-policy
+Port 1334 - writesrv: writesrv
+Port 1335 - digital-notary: digital-notary
+Port 1289 - jwalkserver: jwalkserver
+Port 1290 - winjaserver: winjaserver
+Port 1291 - SEAGULLLMS: SEAGULLLMS
+Port 1292 - dsdn: dsdn
+Port 1293 - pkagent: pkagent
+Port 1294 - cmmdriver: cmmdriver
+Port 1295 - end-by-serv: end-by-serv
+Port 1296 - dproxy: dproxy
+Port 1297 - sdproxy: sdproxy
+Port 1298 - lpcp: lpcp
+Port 1299 - hp-sci: hp-sci
+Port 1300 - H323 Host Call Secure: H323 Host Call Secure
+Port 1301 - CI3-Software-1: CI3-Software-1
+Port 1302 - CI3-Software-2: CI3-Software-2
+Port 1303 - sftsrv: sftsrv
+Port 1304 - boomerang: boomerang
+Port 1305 - peaklm: peaklm
+Port 1306 - rcadm: rcadm
+Port 1307 - pacmand: pacmand
+Port 1308 - odsi: odsi
+Port 1309 - jtag-server: jtag-server
+Port 1310 - husky: husky
+Port 1311 - rxmon: rxmon
+Port 1312 - sti-envision: sti-envision
+Port 1313 - bmc_patroldb: bmc_patroldb
+Port 1314 - pdps: pdps
+Port 1315 - els: els
+Port 1316 - exbit-escp: exbit-escp
+Port 1317 - vrts-ipcserver: vrts-ipcserver
+Port 1318 - krbc-ncp: krbc-ncp
+Port 1319 - amx-icsp: amx-icsp
+Port 1320 - amx-axbnet: amx-axbnet
+Port 1321 - pip: pip
+Port 1322 - novation: novation
+Port 1323 - brcd: brcd
+Port 1324 - delta-mcp: delta-mcp
+Port 1325 - dx-instrument: dx-instrument
+Port 1326 - wimsic: wimsic
+Port 1327 - ultrex: ultrex
+Port 1328 - ewall: ewall
+Port 1329 - netdb-export: netdb-export
+Port 1330 - streetperfect: streetperfect
+Port 1331 - intersan: intersan
+Port 1332 - pcia-rxp-b: pcia-rxp-b
+Port 1333 - passwrd-policy: passwrd-policy
+Port 1334 - writesrv: writesrv
+Port 1335 - digital-notary: digital-notary
+Port 1336 - ischat: ischat
+Port 1337 - menandmice-dns: menandmice-dns
+Port 1338 - wmc-log-svc: wmc-log-svc
+Port 1339 - kjtsiteserver: kjtsiteserver
+Port 1340 - naap: naap
+Port 1341 - Qubes Service: Qubes Service
+Port 1342 - esbroker: esbroker
+Port 1343 - re101: re101
+Port 1344 - icap: icap
+Port 1345 - vpjp: vpjp
+Port 1346 - Alta Analytics License Manager: Alta Analytics License Manager
+Port 1347 - multi media conferencing: multi media conferencing
+Port 1348 - multi media conferencing: multi media conferencing
+Port 1349 - Registration Network Protocol: Registration Network Protocol
+Port 1350 - Registration Network Protocol Secure: Registration Network Protocol Secure
+Port 1351 - Digital Tool Works (MIT), data server: Digital Tool Works (MIT), data server
+Port 1352 - Lotus Notes: Lotus Notes
+Port 1353 - Relief Consulting: Relief Consulting
+Port 1354 - Right Brain Software (AI Agent): Right Brain Software (AI Agent)
+Port 1355 - Intuitive Edge: Intuitive Edge
+Port 1356 - CuillaMartin Company: CuillaMartin Company
+Port 1357 - Electronic Pegboard: Electronic Pegboard
+Port 1358 - Application System Discovery: Application System Discovery
+Port 1359 - FTSRV: FTSRV
+Port 1360 - MIMER: MIMER
+Port 1361 - LinX: LinX
+Port 1362 - TimeFlies: TimeFlies
+Port 1363 - Network DataMover Requester: Network DataMover Requester
+Port 1364 - Network DataMover Server: Network DataMover Server
+Port 1365 - Network Software Associates: Network Software Associates
+Port 1366 - Novell NetWare Comm Service Platform: Novell NetWare Comm Service Platform
+Port 1367 - DCS: DCS
+Port 1368 - ScreenCast: ScreenCast
+Port 1369 - GlobalView to Unix Shell: GlobalView to Unix Shell
+Port 1370 - Unix Shell to GlobalView: Unix Shell to GlobalView
+Port 1371 - Fujitsu Config Protocol: Fujitsu Config Protocol
+Port 1372 - Fujitsu Config Protocol: Fujitsu Config Protocol
+Port 1373 - Chromagrafx: Chromagrafx
+Port 1374 - EPI Software Systems: EPI Software Systems
+Port 1375 - Bytex: Bytex
+Port 1376 - IBM Person to Person Software: IBM Person to Person Software
+Port 1377 - Cichlid License Manager: Cichlid License Manager
+Port 1378 - Elan License Manager: Elan License Manager
+Port 1379 - Integrity Solutions: Integrity Solutions
+Port 1380 - Telesis Network License Manager: Telesis Network License Manager
+Port 1381 - Apple Network License Manager: Apple Network License Manager
+Port 1382 - UDT_OS: UDT_OS
+Port 1383 - GW Hannaway Network License Manager: GW Hannaway Network License Manager
+Port 1384 - Objective Solutions License Manager: Objective Solutions License Manager
+Port 1385 - Atex Publishing License Manager: Atex Publishing License Manager
+Port 1386 - CheckSum License Manager: CheckSum License Manager
+Port 1387 - Computer Aided Design Software Inc LM: Computer Aided Design Software Inc LM
+Port 1388 - Objective Solutions DataBase Cache: Objective Solutions DataBase Cache
+Port 1389 - Document Manager: Document Manager
+Port 1390 - Storage Controller: Storage Controller
+Port 1391 - Storage Access Server: Storage Access Server
+Port 1392 - Print Manager: Print Manager
+Port 1393 - Network Log Server: Network Log Server
+Port 1394 - Network Log Client: Network Log Client
+Port 1395 - PC Workstation Manager software: PC Workstation Manager software
+Port 1396 - DVL Active Mail: DVL Active Mail
+Port 1397 - Audio Active Mail: Audio Active Mail
+Port 1398 - Video Active Mail: Video Active Mail
+Port 1399 - Cadkey License Manager: Cadkey License Manager
+Port 1400 - Cadkey Tablet Daemon: Cadkey Tablet Daemon
+Port 1401 - Goldleaf License Manager: Goldleaf License Manager
+Port 1402 - Prospero Resource Manager: Prospero Resource Manager
+Port 1403 - Prospero Resource Manager: Prospero Resource Manager
+Port 1404 - Infinite Graphics License Manager: Infinite Graphics License Manager
+Port 1405 - IBM Remote Execution Starter: IBM Remote Execution Starter
+Port 1406 - NetLabs License Manager: NetLabs License Manager
+Port 1407 - DBSA License Manager: DBSA License Manager
+Port 1408 - SOP Session Protocol: SOP Session Protocol
+Port 1409 - Here License Manager: Here License Manager
+Port 1410 - HiQ License Manager: HiQ License Manager
+Port 1411 - AudioFile: AudioFile
+Port 1412 - InnoSys: InnoSys
+Port 1413 - Innosys-ACL: Innosys-ACL
+Port 1414 - IBM MQSeries: IBM MQSeries
+Port 1415 - DBStar: DBStar
+Port 1416 - Novell LU6.2: Novell LU6.2
+Port 1417 - Timbuktu Service 1 Port: Timbuktu Service 1 Port
+Port 1418 - Timbuktu Service 2 Port: Timbuktu Service 2 Port
+Port 1419 - Timbuktu Service 3 Port: Timbuktu Service 3 Port
+Port 1420 - Timbuktu Service 4 Port: Timbuktu Service 4 Port
+Port 1421 - Gandalf License Manager: Gandalf License Manager
+Port 1422 - Autodesk License Manager: Autodesk License Manager
+Port 1423 - Essential Talents License Manager: Essential Talents License Manager
+Port 1424 - Hybrid Encryption Protocol: Hybrid Encryption Protocol
+Port 1425 - Zion Software License Manager: Zion Software License Manager
+Port 1426 - Satellite-data Acquisition System 1: Satellite-data Acquisition System 1
+Port 1427 - mloadd monitoring tool: mloadd monitoring tool
+Port 1428 - Informatik License Manager: Informatik License Manager
+Port 1429 - Hypercom NMS: Hypercom NMS
+Port 1430 - Hypercom TPDU: Hypercom TPDU
+Port 1431 - Reverse Gossip Transport: Reverse Gossip Transport
+Port 1432 - Blueberry Software License Manager: Blueberry Software License Manager
+Port 1433 - Microsoft SQL Server: Microsoft SQL Server
+Port 1434 - Microsoft SQL Monitor: Microsoft SQL Monitor
+Port 1435 - IBM CICS: IBM CICS
+Port 1436 - Satellite-data Acquisition System 2: Satellite-data Acquisition System 2
+Port 1437 - Tabula: Tabula
+Port 1438 - Tabula GUI Remote Protocol: Tabula GUI Remote Protocol
+Port 1439 - Eicon X25/SNA Gateway: Eicon X25/SNA Gateway
+Port 1440 - Eicon Service Location Protocol: Eicon Service Location Protocol
+Port 1441 - Cadis License Management: Cadis License Management
+Port 1442 - Cadis License Management: Cadis License Management
+Port 1443 - Integrated Engineering Software: Integrated Engineering Software
+Port 1444 - Marcam License Management: Marcam License Management
+Port 1445 - Proxima License Manager: Proxima License Manager
+Port 1446 - Optimeet License Manager: Optimeet License Manager
+Port 1447 - Applied Parallel Research LM: Applied Parallel Research LM
+Port 1448 - OpenConnect License Manager: OpenConnect License Manager
+Port 1449 - PEport: PEport
+Port 1450 - Tandem Distributed Workbench Facility: Tandem Distributed Workbench Facility
+Port 1451 - IBM Information Management: IBM Information Management
+Port 1452 - GTE Government Systems License Man: GTE Government Systems License Man
+Port 1453 - Genie License Manager: Genie License Manager
+Port 1454 - interHDL License Manager: interHDL License Manager
+Port 1455 - ESL License Manager: ESL License Manager
+Port 1456 - DCA: DCA
+Port 1457 - Valisys License Manager: Valisys License Manager
+Port 1458 - Dr. Solomon's License Manager: Dr. Solomon's License Manager
+Port 1459 - Proshare Notebook Application: Proshare Notebook Application
+Port 1460 - Proshare Notebook Application: Proshare Notebook Application
+Port 1461 - IBM Wireless LAN: IBM Wireless LAN
+Port 1462 - World License Manager: World License Manager
+Port 1463 - Nucleus: Nucleus
+Port 1464 - MSL License Manager: MSL License Manager
+Port 1465 - Pipes Platform: Pipes Platform
+Port 1466 - Ocean Software License Manager: Ocean Software License Manager
+Port 1467 - CSDMBASE: CSDMBASE
+Port 1468 - CSDM: CSDM
+Port 1469 - Active Analysis Limited License Manager: Active Analysis Limited License Manager
+Port 1470 - Universal Analytics: Universal Analytics
+Port 1471 - csdmbase: csdmbase
+Port 1472 - csdm: csdm
+Port 1473 - OpenMath: OpenMath
+Port 1474 - Telefinder: Telefinder
+Port 1475 - Taligent License Manager: Taligent License Manager
+Port 1476 - clvm-cfg: clvm-cfg
+Port 1477 - ms-sna-server: ms-sna-server
+Port 1478 - ms-sna-base: ms-sna-base
+Port 1479 - dberegister: dberegister
+Port 1480 - PacerForum: PacerForum
+Port 1481 - AIRS: AIRS
+Port 1482 - Miteksys License Manager: Miteksys License Manager
+Port 1483 - AFS License Manager: AFS License Manager
+Port 1484 - Confluent License Manager: Confluent License Manager
+Port 1485 - LANSource: LANSource
+Port 1486 - nms_topo_serv: nms_topo_serv
+Port 1487 - LocalInfoSrvr: LocalInfoSrvr
+Port 1488 - DocStor: DocStor
+Port 1489 - dmdocbroker: dmdocbroker
+Port 1490 - insitu-conf: insitu-conf
+Port 1491 - anynetgateway: anynetgateway
+Port 1492 - stone-design-1: stone-design-1
+Port 1493 - netmap_lm: netmap_lm
+Port 1494 - citrix-ica: citrix-ica
+Port 1495 - cvc: cvc
+Port 1496 - liberty-lm: liberty-lm
+Port 1497 - rfx-lm: rfx-lm
+Port 1498 - ncd-diag: ncd-diag
+Port 1499 - fhc: fhc
+Port 1500 - vlsi-lm: vlsi-lm
+Port 1501 - sas-3: sas-3
+Port 1502 - shiva: shiva
+Port 1503 - imtc-mcs: imtc-mcs
+Port 1504 - evb-elm: evb-elm
+Port 1505 - funkproxy: funkproxy
+Port 1506 - utcd: utcd
+Port 1507 - symplex: symplex
+Port 1508 - diagmond: diagmond
+Port 1509 - robcad-lm: robcad-lm
+Port 1510 - mvx-lm: mvx-lm
+Port 1511 - 3l-l1: 3l-l1
+Port 1512 - wins: wins
+Port 1513 - fujitsu-dtcns: fujitsu-dtcns
+Port 1514 - fujitsu-dtc: fujitsu-dtc
+Port 1515 - ifor-protocol: ifor-protocol
+Port 1516 - Virtual Places Audio data: Virtual Places Audio data
+Port 1517 - Virtual Places Audio control: Virtual Places Audio control
+Port 1518 - vpvd: vpvd
+Port 1519 - vpvc: vpvc
+Port 1520 - atm-zip-enc: atm-zip-enc
+Port 1521 - Oracle database common: Oracle database common
+Port 1522 - Oracle database proxy: Oracle database proxy
+Port 1523 - Oracle database common: Oracle database common
+Port 1524 - ingres: ingres
+Port 1525 - Oracle: Oracle
+Port 1526 - Oracle database common: Oracle database common
+Port 1527 - Oracle database common: Oracle database common
+Port 1528 - micautoreg: micautoreg
+Port 1529 - support: support
+Port 1530 - Oracle database common: Oracle database common
+Port 1531 - rap-service: rap-service
+Port 1532 - miroconnect: miroconnect
+Port 1533 - Virtual Places Software: Virtual Places Software
+Port 1534 - micromuse-lm: micromuse-lm
+Port 1535 - a13-an: a13-an
+Port 1536 - ampr-info: ampr-info
+Port 1537 - Virtual Places Video control: Virtual Places Video control
+Port 1538 - 3ds-lm: 3ds-lm
+Port 1539 - Intellistor License Manager: Intellistor License Manager
+Port 1540 - rds: rds
+Port 1541 - rds2: rds2
+Port 1542 - gridgen-elmd: gridgen-elmd
+Port 1543 - simba-cs: simba-cs
+Port 1544 - aspeclmd: aspeclmd
+Port 1545 - vistium-share: vistium-share
+Port 1546 - abbaccuray: abbaccuray
+Port 1547 - laplink: laplink
+Port 1548 - axon-lm: axon-lm
+Port 1549 - shrinkwrap: shrinkwrap
+Port 1550 - Image Storage license manager 3M Company: Image Storage license manager 3M Company
+Port 1551 - hecmtl-db: hecmtl-db
+Port 1552 - pciarray: pciarray
+Port 1553 - sna-cs: sna-cs
+Port 1554 - caci-lm: caci-lm
+Port 1555 - livelan: livelan
+Port 1556 - ashwin: ashwin
+Port 1557 - arbortext-lm: arbortext-lm
+Port 1558 - xingmpeg: xingmpeg
+Port 1559 - web2host: web2host
+Port 1560 - asci-val: asci-val
+Port 1561 - facilityview: facilityview
+Port 1562 - pconnectmgr: pconnectmgr
+Port 1563 - cadabra-lm: cadabra-lm
+Port 1564 - Pay-Per-View: Pay-Per-View
+Port 1565 - WinDD: WinDD
+Port 1566 - Corel Video RealTime: Corel Video RealTime
+Port 1567 - jlicelmd: jlicelmd
+Port 1568 - tsspmap: tsspmap
+Port 1569 - ets: ets
+Port 1570 - orbixd: orbixd
+Port 1571 - Oracle Remote Data Base: Oracle Remote Data Base
+Port 1572 - Chipcom License Manager: Chipcom License Manager
+Port 1573 - itscomm-ns: itscomm-ns
+Port 1574 - mvel-lm: mvel-lm
+Port 1575 - oraclenames: oraclenames
+Port 1576 - moldflow-lm: moldflow-lm
+Port 1577 - hypercube-lm: hypercube-lm
+Port 1578 - Jacobus License Manager: Jacobus License Manager
+Port 1579 - ioc-sea-lm: ioc-sea-lm
+Port 1580 - tn-tl-r1: tn-tl-r1
+Port 1581 - MIL-2045-47001: MIL-2045-47001
+Port 1582 - MSIMS: MSIMS
+Port 1583 - simbaexpress: simbaexpress
+Port 1584 - tn-tl-fd2: tn-tl-fd2
+Port 1585 - intv: intv
+Port 1586 - ibm-abtact: ibm-abtact
+Port 1587 - pra_elmd: pra_elmd
+Port 1588 - triquest-lm: triquest-lm
+Port 1589 - vqp: vqp
+Port 1590 - gemini-lm: gemini-lm
+Port 1591 - ncpm-pm: ncpm-pm
+Port 1592 - commonspace: commonspace
+Port 1593 - mainsoft-lm: mainsoft-lm
+Port 1594 - sixtrak: sixtrak
+Port 1595 - radio: radio
+Port 1596 - radio-sm: radio-sm
+Port 1597 - orbplus-iiop: orbplus-iiop
+Port 1598 - picknfs: picknfs
+Port 1599 - simbaservices: simbaservices
+Port 1600 - issd: issd
+Port 1601 - aas: aas
+Port 1602 - inspect: inspect
+Port 1603 - picodbc: picodbc
+Port 1604 - icabrowser: icabrowser
+Port 1605 - Salutation Manager (Salutation Protocol): Salutation Manager (Salutation Protocol)
+Port 1606 - Salutation Manager (SLM-API): Salutation Manager (SLM-API)
+Port 1607 - Staggered Speech: Staggered Speech
+Port 1608 - Smart Corp. License Manager: Smart Corp. License Manager
+Port 1609 - isysg-lm: isysg-lm
+Port 1610 - taurus-wh: taurus-wh
+Port 1611 - Inter Library Loan: Inter Library Loan
+Port 1612 - NetBill Transaction Server: NetBill Transaction Server
+Port 1613 - NetBill Key Repository: NetBill Key Repository
+Port 1614 - NetBill Credential Server: NetBill Credential Server
+Port 1615 - NetBill Authorization Server: NetBill Authorization Server
+Port 1616 - NetBill Product Server: NetBill Product Server
+Port 1617 - Nimrod Inter-Agent Communication: Nimrod Inter-Agent Communication
+Port 1618 - SKYRIM-PX1: SKYRIM-PX1
+Port 1619 - xs-openstorage: xs-openstorage
+Port 1620 - faxportwinport: faxportwinport
+Port 1621 - softdataphone: softdataphone
+Port 1622 - onet-lm: onet-lm
+Port 1623 - jaleosnd: jaleosnd
+Port 1624 - udp-sr-port: udp-sr-port
+Port 1625 - svs-omagent: svs-omagent
+Port 1626 - Shockwave: Shockwave
+Port 1627 - T.128 Gateway: T.128 Gateway
+Port 1628 - lontalk-norm: lontalk-norm
+Port 1629 - lontalk-urgnt: lontalk-urgnt
+Port 1630 - Oracle Net8 Cman: Oracle Net8 Cman
+Port 1631 - Visit view: Visit view
+Port 1632 - PAMMRATC: PAMMRATC
+Port 1633 - PAMMRPC: PAMMRPC
+Port 1634 - Log On America Probe: Log On America Probe
+Port 1635 - EDB Server 1: EDB Server 1
+Port 1636 - CableNet Control Protocol: CableNet Control Protocol
+Port 1637 - CableNet Admin Protocol: CableNet Admin Protocol
+Port 1638 - CableNet Info Protocol: CableNet Info Protocol
+ort 1639 - Cert Initiation Protocol: Cert Initiation Protocol
+Port 1640 - cert-responder: cert-responder
+Port 1641 - invision: invision
+Port 1642 - isis-am: isis-am
+Port 1643 - isis-ambc: isis-ambc
+Port 1644 - SatScape: SatScape
+Port 1645 - datametrics: datametrics
+Port 1646 - sa-msg-port: sa-msg-port
+Port 1647 - rsap: rsap
+Port 1648 - concurrent-lm: concurrent-lm
+Port 1649 - kermit: kermit
+Port 1650 - nkd: nkd
+Port 1651 - shiva_confsrvr: shiva_confsrvr
+Port 1652 - xnmp: xnmp
+Port 1653 - alphatech-lm: alphatech-lm
+Port 1654 - stargatealerts: stargatealerts
+Port 1655 - dec-mbadmin: dec-mbadmin
+Port 1656 - dec-mbadmin-h: dec-mbadmin-h
+Port 1657 - fujitsu-mmpdc: fujitsu-mmpdc
+Port 1658 - sixnetudr: sixnetudr
+Port 1659 - sg-lm: sg-lm
+Port 1660 - skip-mc-gikreq: skip-mc-gikreq
+Port 1661 - netview-aix-1: netview-aix-1
+Port 1662 - netview-aix-2: netview-aix-2
+Port 1663 - netview-aix-3: netview-aix-3
+Port 1664 - netview-aix-4: netview-aix-4
+Port 1665 - netview-aix-5: netview-aix-5
+Port 1666 - netview-aix-6: netview-aix-6
+Port 1667 - netview-aix-7: netview-aix-7
+Port 1668 - netview-aix-8: netview-aix-8
+Port 1669 - netview-aix-9: netview-aix-9
+Port 1670 - netview-aix-10: netview-aix-10
+Port 1671 - netview-aix-11: netview-aix-11
+Port 1672 - netview-aix-12: netview-aix-12
+Port 1673 - Intel Proshare Multicast: Intel Proshare Multicast
+Port 1674 - Intel Proshare Multicast (old): Intel Proshare Multicast (old)
+Port 1675 - Pacific Data Products: Pacific Data Products
+Port 1676 - netcomm1: netcomm1
+Port 1677 - groupwise: groupwise
+Port 1678 - prolink: prolink
+Port 1679 - darcorp-lm: darcorp-lm
+Port 1680 - microcom-sbp: microcom-sbp
+Port 1681 - sd-elmd: sd-elmd
+Port 1682 - lanyon-lantern: lanyon-lantern
+Port 1683 - ncpm-hip: ncpm-hip
+Port 1684 - snaresecure: snaresecure
+Port 1685 - n2nremote: n2nremote
+Port 1686 - cvmon: cvmon
+Port 1687 - nsjtp-ctrl: nsjtp-ctrl
+Port 1688 - nsjtp-data: nsjtp-data
+Port 1689 - firefox: firefox
+Port 1690 - ng-umds: ng-umds
+Port 1691 - empire-empuma: empire-empuma
+Port 1692 - sstsys-lm: sstsys-lm
+Port 1693 - rrirtr: rrirtr
+Port 1694 - rrimwm: rrimwm
+Port 1695 - rrilwm: rrilwm
+Port 1696 - rrilwm-monitor: rrilwm-monitor
+Port 1697 - rrisat: rrisat
+Port 1698 - rsvp-encap-1: rsvp-encap-1
+Port 1699 - rsvp-encap-2: rsvp-encap-2
+Port 1700 - mps-raft: mps-raft
+Port 1701 - l2tp: l2tp
+Port 1702 - deskshare: deskshare
+Port 1703 - hb-engine: hb-engine
+Port 1704 - bcs-broker: bcs-broker
+Port 1705 - slingshot: slingshot
+Port 1706 - jetform: jetform
+Port 1707 - vdmplay: vdmplay
+Port 1708 - gat-lmd: gat-lmd
+Port 1709 - centrino-lm: centrino-lm
+Port 1710 - impera: impera
+Port 1711 - pptconference: pptconference
+Port 1712 - registry-udp: registry-udp
+Port 1713 - conference-talk: conference-talk
+Port 1714 - sesi-lm: sesi-lm
+Port 1715 - houdini-lm: houdini-lm
+Port 1716 - xmsg: xmsg
+Port 1717 - fj-hdnet: fj-hdnet
+Port 1718 - h323gatedisc: h323gatedisc
+Port 1719 - h323gatestat: h323gatestat
+Port 1720 - h323hostcall: h323hostcall
+Port 1721 - caicci: caicci
+Port 1722 - hks-lm: hks-lm
+Port 1723 - pptp: pptp
+Port 1724 - csbphonemaster: csbphonemaster
+Port 1725 - iden-ralp: iden-ralp
+Port 1726 - sbs-security: sbs-security
+Port 1727 - winddx: winddx
+Port 1728 - telindus: telindus
+Port 1729 - citynl: citynl
+Port 1730 - roketz: roketz
+Port 1731 - msiccp: msiccp
+Port 1732 - proxim: proxim
+Port 1733 - siipat: siipat
+Port 1734 - camac: camac
+Port 1735 - privatechat: privatechat
+Port 1736 - street-stream: street-stream
+Port 1737 - ultimad: ultimad
+Port 1738 - gamegen1: gamegen1
+Port 1739 - webaccess: webaccess
+Port 1740 - ncpm-ft: ncpm-ft
+Port 1741 - cisco-net-mgmt: cisco-net-mgmt
+Port 1742 - 3Com-nsd: 3Com-nsd
+Port 1743 - cinegrfx-lm: cinegrfx-lm
+Port 1744 - ncpm-hip: ncpm-hip
+Port 1745 - remote-winsock: remote-winsock
+Port 1746 - ftrapid-1: ftrapid-1
+Port 1747 - ftrapid-2: ftrapid-2
+Port 1748 - oracle-em1: oracle-em1
+Port 1749 - aspen-services: aspen-services
+Port 1750 - ssdp: ssdp
+Port 1751 - swift-rvf: swift-rvf
+Port 1752 - leap-of-faith: leap-of-faith
+Port 1753 - predatar-comms: predatar-comms
+Port 1754 - oracle-em2: oracle-em2
+Port 1755 - wms: wms
+Port 1756 - capfast-lmd: capfast-lmd
+Port 1757 - cnhrp: cnhrp
+Port 1758 - tftp-mcast: tftp-mcast
+Port 1759 - spss-lm: spss-lm
+Port 1760 - www-ldap-gw: www-ldap-gw
+Port 1761 - cft-0: cft-0
+Port 1762 - cft-1: cft-1
+Port 1763 - cft-2: cft-2
+Port 1764 - cft-3: cft-3
+Port 1765 - cft-4: cft-4
+Port 1766 - cft-5: cft-5
+Port 1767 - cft-6: cft-6
+Port 1768 - cft-7: cft-7
+Port 1769 - cft-8: cft-8
+Port 1770 - bmc-net-adm: bmc-net-adm
+Port 1771 - vaultbase: vaultbase
+Port 1772 - essweb-gw: essweb-gw
+Port 1773 - kmc-gateway: kmc-gateway
+Port 1774 - global-dtserv: global-dtserv
+Port 1775 - ibm-dt-2: ibm-dt-2
+Port 1776 - federal-voip: federal-voip
+Port 1777 - powerguardian: powerguardian
+Port 1778 - prodigy-intrnet: prodigy-intrnet
+Port 1779 - pharmasoft: pharmasoft
+Port 1780 - dpkeyserv: dpkeyserv
+Port 1781 - answersoft-lm: answersoft-lm
+Port 1782 - hp-hcip: hp-hcip
+Port 1783 - etrip: etrip
+Port 1784 - finle-lm: finle-lm
+Port 1785 - windlm: windlm
+Port 1786 - funk-logger: funk-logger
+Port 1787 - heyu-x10: heyu-x10
+Port 1788 - psmond: psmond
+Port 1789 - hello: hello
+Port 1790 - narrative: narrative
+Port 1791 - ea1: ea1
+Port 1792 - ibm-dt-3: ibm-dt-3
+Port 1793 - rsc-robot: rsc-robot
+Port 1794 - cera-bcm: cera-bcm
+Port 1795 - dpi-proxy: dpi-proxy
+Port 1796 - vocaltec-admin: vocaltec-admin
+Port 1797 - umeshrpc: umeshrpc
+Port 1798 - event-port: event-port
+Port 1799 - netrisk: netrisk
+Port 1800 - ansys-lm: ansys-lm
+Port 1801 - msmq: msmq
+Port 1802 - concomp1: concomp1
+Port 1803 - hp-hcip-gwy: hp-hcip-gwy
+Port 1804 - enl: enl
+Port 1805 - enl-name: enl-name
+Port 1806 - musiconline: musiconline
+Port 1807 - fhsp: fhsp
+Port 1808 - oracle-vp2: oracle-vp2
+Port 1809 - oracle-vp1: oracle-vp1
+Port 1810 - jerand-lm: jerand-lm
+Port 1811 - scientia-sdb: scientia-sdb
+Port 1812 - radius: radius
+Port 1813 - radius-acct: radius-acct
+Port 1814 - tdp-suite: tdp-suite
+Port 1815 - mmpft: mmpft
+Port 1816 - hsrp: hsrp
+Port 1817 - rkb-oscs: rkb-oscs
+Port 1818 - etftp: etftp
+Port 1819 - etcd-client: etcd-client
+Port 1820 - mcagent: mcagent
+Port 1821 - donnyworld: donnyworld
+Port 1822 - es-elmd: es-elmd
+Port 1823 - unisys-lm: unisys-lm
+Port 1824 - metrics-pas: metrics-pas
+Port 1825 - direcpc-video: direcpc-video
+Port 1826 - arcaia: arcaia
+Port 1827 - asi: asi
+Port 1828 - itm-mcell-u: itm-mcell-u
+Port 1829 - optika-emedia: optika-emedia
+Port 1830 - net8-cman: net8-cman
+Port 1831 - myrtle: myrtle
+Port 1832 - thoughtnotes: thoughtnotes
+Port 1833 - udpradio: udpradio
+Port 1834 - ardusuni: ardusuni
+Port 1835 - ardusmul: ardusmul
+Port 1836 - ste-smsc: ste-smsc
+Port 1837 - csoft1: csoft1
+Port 1838 - tal-pod: tal-pod
+Port 1839 - netopia-vo1: netopia-vo1
+Port 1840 - netopia-vo2: netopia-vo2
+Port 1841 - netopia-vo3: netopia-vo3
+Port 1842 - netopia-vo4: netopia-vo4
+Port 1843 - netopia-vo5: netopia-vo5
+Port 1844 - direcpc-dll: direcpc-dll
+Port 1845 - altalink: altalink
+Port 1846 - tunstall-pnc: tunstall-pnc
+Port 1847 - slp-notify: slp-notify
+Port 1848 - fjdocdist: fjdocdist
+Port 1849 - alpha-sms: alpha-sms
+Port 1850 - gsi: gsi
+Port 1851 - cailic: cailic
+Port 1852 - virtual-time: virtual-time
+Port 1853 - vidflow: vidflow
+Port 1854 - bunnyfiles: bunnyfiles
+Port 1855 - fiorano-rtrsvc: fiorano-rtrsvc
+Port 1856 - fiorano-msgsvc: fiorano-msgsvc
+Port 1857 - datacaptor: datacaptor
+Port 1858 - privateark: privateark
+Port 1859 - gammafetchsvr: gammafetchsvr
+Port 1860 - sunscalar-svc: sunscalar-svc
+Port 1861 - lecroy-vicp: lecroy-vicp
+Port 1862 - mysql-cm-agent: mysql-cm-agent
+Port 1863 - msnp: msnp
+Port 1864 - paradym-31port: paradym-31port
+Port 1865 - entp: entp
+Port 1866 - swrmi: swrmi
+Port 1867 - udproxy: udproxy
+Port 1868 - viziblebrowser: viziblebrowser
+Port 1869 - transact: transact
+Port 1870 - sunscalar-dns: sunscalar-dns
+Port 1871 - canyon-disk: canyon-disk
+Port 1872 - canyon-mux: canyon-mux
+Port 1873 - fjswapsnp: fjswapsnp
+Port 1874 - fjswapsync: fjswapsync
+Port 1875 - westell-stats: westell-stats
+Port 1876 - tng-bus: tng-bus
+Port 1877 - hp-webqosdb: hp-webqosdb
+Port 1878 - drmsmc: drmsmc
+Port 1879 - nettgain-nms: nettgain-nms
+Port 1880 - node-red: node-red
+Port 1881 - ibm-mqseries2: ibm-mqseries2
+Port 1882 - ecni: ecni
+Port 1883 - mqtt: mqtt
+Port 1884 - idmaps
