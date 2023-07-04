@@ -1,0 +1,1027 @@
+Port 0: Reserved (not in use)
+Port 1: TCPMUX (TCP Multiplexer)
+Port 2: Reserved (protocol reservation)
+Port 3: Reserved (protocol reservation)
+Port 4: Reserved (protocol reservation)
+Port 5: RJE (Remote Job Entry)
+Port 6: Reserved (protocol reservation)
+Port 7: Echo Protocol
+Port 8: Reserved (protocol reservation)
+Port 9: Discard Protocol
+Port 10: Reserved (protocol reservation)
+Port 11: Systat Protocol
+Port 12: Daytime Protocol
+Port 13: Daytime Protocol
+Port 14: Reserved (protocol reservation)
+Port 15: Reserved (protocol reservation)
+Port 16: Reserved (protocol reservation)
+Port 17: Quote Protocol
+Port 18: MSP (Message Send Protocol)
+Port 19: Chargen Protocol (Character Generator Protocol)
+Port 20: FTP (File Transfer Protocol), data transfer (file download and upload)
+Port 21: FTP (File Transfer Protocol), control (command and response exchange)
+Port 22: SSH (Secure Shell), secure remote access
+Port 23: Telnet Protocol, remote access (typically without encryption)
+Port 24: PGP (Pretty Good Privacy)
+Port 25: SMTP (Simple Mail Transfer Protocol), email sending
+Port 26: RSFTP (Remote FTP)
+Port 27: NSW User System FE
+Port 28: Unassigned
+Port 29: MSG ICP
+Port 30: Unassigned
+Port 31: Unassigned
+Port 32: Unassigned
+Port 33: Display Support Protocol
+Port 34: Unassigned
+Port 35: QMS Magicolor 2 printer
+Port 36: Unassigned
+Port 37: Time Protocol
+Port 38: RAP (Route Access Protocol)
+Port 39: Resource Location Protocol
+Port 40: Unassigned
+Port 41: Graphics
+Port 42: Host Name Server
+Port 43: WHOIS Protocol
+Port 44: MPM FLAGS Protocol
+Port 45: Message Processing Module [recv]
+Port 46: MPM [default send]
+Port 47: NI FTP
+Port 48: Digital Audit Daemon
+Port 49: TACACS
+Port 50: Remote Mail Checking Protocol
+Port 51: IMP Logical Address Maintenance
+Port 52: XNS (Xerox Network Services) Time Protocol
+Port 53: DNS (Domain Name System)
+Port 54: XNS (Xerox Network Services) Clearinghouse
+Port 55: ISI Graphics Language
+Port 56: XNS (Xerox Network Services) Authentication
+Port 57: MTP (Mail Transfer Protocol)
+Port 58: XNS (Xerox Network Services) Mail
+Port 59: Unassigned
+Port 60: Unassigned
+Port 61: NI MAIL
+Port 62: ACA Services
+Port 63: WHOIS++
+Port 64: Communications Integrator (CI)
+Port 65: TACACS-Database Service
+Port 66: Oracle SQL*NET
+Port 67: Bootstrap Protocol Server (DHCP/BOOTP)
+Port 68: Bootstrap Protocol Client (DHCP/BOOTP)
+Port 69: TFTP (Trivial File Transfer Protocol)
+Port 70: Gopher Services
+Port 71: NETRJS-1 (Remote Job Service)
+Port 72: NETRJS-2 (Remote Job Service)
+Port 73: NETRJS-3 (Remote Job Service)
+Port 74: NETRJS-4 (Remote Job Service)
+Port 75: any private dial-out service
+Port 76: DEOS (Distributed External Object Store)
+Port 77: any private RJE service
+Port 78: vettcp (vettcp.net)
+Port 79: Finger Protocol
+Port 80: HTTP (Hypertext Transfer Protocol)
+Port 81: HOSTS2 Name Server
+Port 82: XFER Utility
+Port 83: MIT ML Device
+Port 84: CTOS (Common Trace Facility)
+Port 85: MIT ML Device
+Port 86: Micro Focus Cobol
+Port 87: any private terminal link
+Port 88: Kerberos
+Port 89: SU/MIT Telnet Gateway
+Port 90: DNSIX (DoD Network Security for Information Exchange)
+Port 91: MIT Dover Spooler
+Port 92: Network Printing Protocol
+Port 93: Device Control Protocol
+Port 94: Tivoli Object Dispatcher
+Port 95: SUPDUP (SUPerior DUPlex)
+Port 96: DIXIE Protocol Specification
+Port 97: Swift Remote Virtural File Protocol
+Port 98: TAC News
+Port 99: Metagram Relay
+Port 100: [Reserved]
+Port 101: NIC Host Name Server
+Port 102: ISO-TSAP (Transport Service Access Point)
+Port 103: Genesis Point-to-Point Trans Net
+Port 104: ACR-NEMA (DICOM) Digital Imaging and Communications in Medicine
+Port 105: CCSO Nameserver Protocol (Qi/Ph)
+Port 106: 3COM-TSMUX (3COM-TSMUX)
+Port 107: Remote Telnet Service (Telnet)
+Port 108: SNA Gateway Access Server (SNAGAS)
+Port 109: Post Office Protocol version 2 (POP2)
+Port 110: Post Office Protocol version 3 (POP3)
+Port 111: ONC RPC (Remote Procedure Call)
+Port 112: McIDAS Data Transmission Protocol (MTP)
+Port 113: Authentication Service (AUTH)
+Port 114: IDENT (Identification Protocol)
+Port 115: Simple File Transfer Protocol (SFTP)
+Port 116: ANSA REX Notify
+Port 117: UUCP Path Service
+Port 118: SQL Services
+Port 119: Network News Transfer Protocol (NNTP)
+Port 120: CFDP (Coherent File Distribution Protocol)
+Port 121: Encore Expedited Remote Pro.Call (ERPC)
+Port 122: SMAKYNET
+Port 123: Network Time Protocol (NTP)
+Port 124: ANSA REX Trader
+Port 125: Locus PC-Interface Net Map Ser
+Port 126: Unisys Unitary Login
+Port 127: Locus PC-Interface Conn Server
+Port 128: GSS X License Verification
+Port 129: Password Generator Protocol (PWDGEN)
+Port 130: cisco FNATIVE
+Port 131: cisco TNATIVE
+Port 132: cisco SYSMAINT
+Port 133: Statistics Service
+Port 134: INGRES-NET Service
+Port 135: Microsoft EPMAP (Endpoint Mapper)
+Port 136: PROFILE Naming System
+Port 137: NetBIOS Name Service
+Port 138: NetBIOS Datagram Service
+Port 139: NetBIOS Session Service
+Port 140: EMFIS Data Service
+Port 141: EMFIS Control Service
+Port 142: Britton-Lee IDM
+Port 143: Internet Message Access Protocol (IMAP)
+Port 144: Universal Management Architecture (UMA)
+Port 145: UAAC Protocol
+Port 146: ISO-IP0
+Port 147: ISO-IP
+Port 148: Jargon
+Port 149: AED 512 Emulation Service
+Port 150: SQL-NET (Oracle SQL*NET)
+Port 151: HEMS (Hypertext Transfer Protocol Secure)
+Port 152: Background File Transfer Program (BFTP)
+Port 153: SGMP (Simple Gateway Monitoring Protocol)
+Port 154: NETSC (NETSC)
+Port 155: NETSC (NETSC)
+Port 156: SQL Service
+Port 157: KNET/VM Command/Message Protocol
+Port 158: PCMail Server
+Port 159: NSS-Routing
+Port 160: SGMP-TRAPS (Simple Gateway Monitoring Protocol Traps)
+Port 161: Simple Network Management Protocol (SNMP)
+Port 162: Simple Network Management Protocol Trap (SNMPTRAP)
+Port 163: CMIP/TCP Manager
+Port 164: CMIP/TCP Agent
+Port 165: Xerox
+Port 166: Sirius Systems
+Port 167: NAMP (netnews administration protocol)
+Port 168: RSVD
+Port 169: SEND
+Port 170: Print-srv
+Port 171: Network Innovations Multiplex
+Port 172: Network Innovations CL/1
+Port 173: Xyplex
+Port 174: MAILQ
+Port 175: VMNET (Virtual Machine Network Protocol)
+Port 176: GENRAD-MUX
+Port 177: X Display Manager Control Protocol (XDMCP)
+Port 178: NextStep Window Server
+Port 179: Border Gateway Protocol (BGP)
+Port 180: Intergraph
+Port 181: Unify
+Port 182: Unisys Audit SITP
+Port 183: Unisys Audit SITP (Secure Internet Transaction Protocol)
+Port 184: Simple Network Paging Protocol (SNPP)
+Port 185: Remote-KIS (Remote-KIS)
+Port 186: KIS Protocol
+Port 187: Application Communication Interface (ACI)
+Port 188: Plus Five's MUMPS
+Port 189: Queued File Transport (QFT)
+Port 190: Gateway Access Control Protocol (GACP)
+Port 191: Prospero Directory Service
+Port 192: OSU Network Monitoring System
+Port 193: Spider Remote Monitoring Protocol
+Port 194: Internet Relay Chat Protocol (IRC)
+Port 195: DNSIX Network Level Module Audit (DN6-NLM-AUD)
+Port 196: DNSIX Session Mgt Module Audit Redir (DN6-SMM-RED)
+Port 197: Directory Location Service (DLS)
+Port 198: Directory Location Service Monitor (DLS-MON)
+Port 199: SMUX (SNMP Unix Multiplexer)
+Port 200: IBM System Resource Controller (SRC)
+Port 200: IBM System Resource Controller (SRC)
+Port 201: AppleTalk Routing Maintenance
+Port 202: AppleTalk Name Binding
+Port 203: AppleTalk Unused
+Port 204: AppleTalk Echo
+Port 205: AppleTalk Unused
+Port 206: AppleTalk Zone Information
+Port 207: AppleTalk Unused
+Port 208: AppleTalk Unused
+Port 209: The Quick Mail Transfer Protocol (QMTP)
+Port 210: ANSI Z39.50
+Port 211: Texas Instruments 914C/G Terminal
+Port 212: ATEXSSTR
+Port 213: IPX
+Port 214: VM PWSCS (VM PWSCS)
+Port 215: Insignia Solutions
+Port 216: Computer Associates Int'l License Server
+Port 217: dBASE Unix
+Port 218: Netix Message Posting Protocol (Netix Message Posting Protocol)
+Port 219: Unisys ARPs (Unisys ARPs)
+Port 220: Interactive Mail Access Protocol v3 (IMAP3)
+Port 221: Berkeley rlogind with SPX auth
+Port 222: Berkeley rshd with SPX auth
+Port 223: Certificate Distribution Center
+Port 224: Unisys ARPs (Unisys ARPs)
+Port 225: Send
+Port 226: Berkeley rshd with SPX auth
+Port 227: Internet Message Access Protocol (IMAP4)
+Port 228: NETSTAT
+Port 229: Unisys ARPs (Unisys ARPs)
+Port 230: NETSTAT
+Port 231: Unisys ARPs (Unisys ARPs)
+Port 232: Unisys ARPs (Unisys ARPs)
+Port 233: Unisys ARPs (Unisys ARPs)
+Port 234: Unisys ARPs (Unisys ARPs)
+Port 235: Unisys ARPs (Unisys ARPs)
+Port 236: Unisys ARPs (Unisys ARPs)
+Port 237: Unisys ARPs (Unisys ARPs)
+Port 238: Unisys ARPs (Unisys ARPs)
+Port 239: Unisys ARPs (Unisys ARPs)
+Port 240: Unisys ARPs (Unisys ARPs)
+Port 241: Unisys ARPs (Unisys ARPs)
+Port 242: Direct
+Port 243: Sur-measure
+Port 244: Dayna
+Port 245: LINK
+Port 246: Display Systems Protocol (DSP)
+Port 247: SUBNTBCST_TFTP (SUBNTBCST_TFTP)
+Port 248: Bobby
+Port 249: Unisys ARPs (Unisys ARPs)
+Port 250: Unisys ARPs (Unisys ARPs)
+Port 251: TCP/IP PCNFS file and printer sharing
+Port 252: Unisys ARPs (Unisys ARPs)
+Port 253: Unisys ARPs (Unisys ARPs)
+Port 254: Unisys ARPs (Unisys ARPs)
+Port 255: Unisys ARPs (Unisys ARPs)
+Port 256: Rap Protocol
+Port 257: Secure Electronic Transaction (SET)
+Port 258: Yak Winsock Personal Chat (Yak Chat)
+Port 259: Efficient Short Remote Operations (ESRO)
+Port 260: Openport
+Port 261: IIOP Name Service over TLS/SSL
+Port 262: Arcisdms
+Port 263: HDAP
+Port 264: Border Gateway Multicast Protocol (BGMP)
+Port 265: X-Bone CTL
+Port 266: SCSI on ST
+Port 267: Tobit David Service Layer (TLS)
+Port 268: Tobit David Replica (REP)
+Port 269: Manet Protocols
+Port 270: Q-mode encapsulation for GIST messages
+Port 271: Reserved
+Port 272: Reserved
+Port 273: Reserved
+Port 274: Reserved
+Port 275: Reserved
+Port 276: Reserved
+Port 277: Reserved
+Port 278: Reserved
+Port 279: Reserved
+Port 280: HTTP-mgmt
+Port 281: Personal Link
+Port 282: Cable Port A/X (Cable Port A/X)
+Port 283: rescap
+Port 284: corerjd
+Port 285: CCS Software
+Port 286: FXP Communication
+Port 287: K-BLOCK
+Port 288: K-BLOCK
+Port 289: Towitoko
+Port 290: Gateway Access Control Protocol (GACP)
+Port 291: Kasten Chase Pad
+Port 292: Kasten Chase Pad
+Port 293: Transport Independent Convergence for FNA (TICFNA)
+Port 294: Transport Independent Convergence for FNA (TICFNA)
+Port 295: Qualified Name Server (QNS)
+Port 296: Interactive Dialout Service
+Port 297: Silkp4
+Port 298: HP SoftBench Sub-Process Control (SB-Sub)
+Port 299: HP SoftBench Sub-Process Control (SB-Sub)
+Port 300: Openport
+Port 301: Apple Network Services
+Port 302: AppleShare IP WebAdmin
+Port 303: Apple Remote Access Control (ARAC)
+Port 304: Timbuktu
+Port 305: Timbuktu
+Port 306: Telexis VTU
+Port 307: Novastor Online Backup
+Port 308: Novastor Online Backup
+Port 309: EntrustTime
+Port 310: bhmds
+Port 311: AppleShare IP WebAdmin
+Port 312: VSLMP
+Port 313: Magenta Logic
+Port 314: Opalis Robot
+Port 315: De-registered (2020-02-28)
+Port 316: DecAuth
+Port 317: Zannet
+Port 318: PKIX TimeStamp
+Port 319: Precision Insight Probe
+Port 320: PTP Event
+Port 321: PIP
+Port 322: RTSPS
+Port 323: Immp
+Port 324: Opalis Robot
+Port 325: SCTP Tunneling
+Port 326: ESP Encap
+Port 327: Compaq Manager
+Port 328: Apple Remote Desktop Reporting
+Port 329: Advanced SCSI Programming Interface (ASPI)
+Port 330: Apple Remote Event Protocol (AREP)
+Port 331: Apple Software Restore (ASR)
+Port 332: AppleNet-Admin
+Port 333: Texar Security Port
+Port 334: Texar Security Port
+Port 335: Unknown
+Port 336: Unknown
+Port 337: Unknown
+Port 338: TCP/UDP for Secure Shell (SSH) protocol
+Port 339: DASP (Distributed Applications Specification)
+Port 340: Unknown
+Port 341: Unknown
+Port 342: Unknown
+Port 343: Unknown
+Port 344: Prospero Data Access Protocol
+Port 345: Perforce
+Port 346: Zebra server
+Port 347: Fatmen Server
+Port 348: Cabletron Management Protocol (CMP)
+Port 349: mftp
+Port 350: MATIP Type A
+Port 351: MATIP Type B
+Port 352: DTAG
+Port 353: NDSAUTH
+Port 354: bh611
+Port 355: DATEX-ASN
+Port 356: Cloanto License Manager
+Port 357: NFS reservation manager
+Port 358: Shrinkwrap
+Port 359: Tenebris Network Trace Service
+Port 360: scoi2odialog
+Port 361: Semantix
+Port 362: SRS Send
+Port 363: RSVP Tunnel
+Port 364: Aurora CMGR
+Port 365: DTK
+Port 366: ODMR
+Port 367: MortgageWare
+Port 368: QbikGDP
+Port 369: Rpc2portmap
+Port 370: codaauth2
+Port 371: ClearCase
+Port 372: ListProcessor
+Port 373: Legent Corporation
+Port 374: Legent Corporation
+Port 375: Hassle
+Port 376: Amiga Envoy Network Inquiry Proto
+Port 377: NEC Corporation
+Port 378: NEC Corporation
+Port 379: TIA/EIA/IS-99 modem client
+Port 380: TIA/EIA/IS-99 modem server
+Port 381: hp performance data collector
+Port 382: hp performance data managed node
+Port 383: hp performance data alarm manager
+Port 384: A Remote Network Server System
+Port 385: IBM Application
+Port 386: ASA Message Router Object Def.
+Port 387: Appletalk Update-Based Routing Pro.
+Port 388: Unidata LDM
+Port 389: Lightweight Directory Access Protocol (LDAP)
+Port 390: UIS
+Port 391: SynOptics SNMP Relay Port
+Port 392: SynOptics Port Broker Port
+Port 393: Data Interpretation System
+Port 394: EMCADS
+Port 395: NETscout Control Protocol
+Port 396: Novell Netware over IP
+Port 397: Multi Protocol Trans. Net.
+Port 398: Kryptolan
+Port 399: ISO Transport Class 2 Non-Control over TCP
+Port 400: Workstation Solutions
+Port 401: Uninterruptible Power Supply (UPS)
+Port 402: Genie Protocol
+Port 403: decap
+Port 404: nced
+Port 405: ncld
+Port 406: Interactive Mail Support Protocol
+Port 407: Timbuktu
+Port 408: Prospero Resource Manager Sys. Man.
+Port 409: Prospero Resource Manager Node Man.
+Port 410: DECLadebug Remote Debug Protocol
+Port 411: Remote MT Protocol
+Port 412: Trap Convention Port
+Port 413: SMSP
+Port 414: InfoSeek
+Port 415: BNet
+Port 416: Silverplatter
+Port 417: Onmux
+Port 418: Hyper-G
+Port 419: Arius
+Port 420: SMPTE
+Port 421: Ariel
+Port 422: Ariel
+Port 423: IBM Operations Planning and Control Start
+Port 424: IBM Operations Planning and Control Track
+Port 425: ICAD
+Port 426: smartsdp
+Port 427: Server Location
+Port 428: OCS_CMU
+Port 429: OCS_AMU
+Port 430: UTMPSD
+Port 431: UTMPCD
+Port 432: IASD
+Port 433: NNSP
+Port 434: MobileIP-Agent
+Port 435: MobilIP-MN
+Port 436: DNA-CML
+Port 437: comscm
+Port 438: dsfgw
+Port 439: dasp
+Port 440: sgcp
+Port 441: decvms-sysmgt
+Port 442: decvms-sysmgt
+Port 443: HTTP Secure (HTTPS)
+Port 444: Simple Network Paging Protocol (SNPP)
+Port 445: Microsoft-DS (SMB)
+Port 446: DDM-RDB
+Port 447: DDM-RFM
+Port 448: DDM-SSL
+Port 449: AS Server Mapper
+Port 450: TServer
+Port 451: Cray Network Semaphore server
+Port 452: Cray SFS config server
+Port 453: CreativeServer
+Port 454: ContentServer
+Port 455: CreativePartnr
+Port 456: macon-tcp
+Port 457: scohelp
+Port 458: apple quick time
+Port 459: ampr-rcmd
+Port 460: skronk
+Port 461: DataRampSrv
+Port 462: DataRampSrvSec
+Port 463: alpes
+Port 464: kpasswd (Kerberos)
+Port 465: SMTPS (SMTP over SSL)
+Port 466: digital-vrc
+Port 467: mylex-mapd
+Port 468: photuris
+Port 469: Radio Control Protocol
+Port 470: scx-proxy
+Port 471: Mondex
+Port 472: ljk-login
+Port 473: hybrid-pop
+Port 474: tn-tl-w2
+Port 475: tcpnethaspsrv
+Port 476: tn-tl-fd1
+Port 477: ss7ns
+Port 478: spsc
+Port 479: iafserver
+Port 480: iafdbase
+Port 481: Ph service
+Port 482: bgs-nsi
+Port 483: ulpnet
+Port 484: Integra Software Management Environment
+Port 485: Air Soft Power Burst
+Port 486: avian
+Port 487: saft Simple Asynchronous File Transfer
+Port 488: gss-http
+Port 489: nest-protocol
+Port 490: micom-pfs
+Port 491: go-login
+Port 492: Transport Independent Convergence for FNA
+Port 493: Transport Independent Convergence for FNA
+Port 494: pov-ray
+Port 495: intecourier
+Port 496: pim-rp-disc
+Port 497: dantz
+Port 498: siam
+Port 499: ISO ILL Protocol
+Port 500: Internet Security Association and Key Management Protocol (ISAKMP)
+Port 501: STMF
+Port 502: Modbus Protocol
+Port 503: Intrinsa
+Port 504: Citadel
+Port 505: mailbox-lm
+Port 506: Login
+Port 507: Cray Unified Resource Manager
+Port 508: OnScreen Data Collection Service
+Port 509: snare
+Port 510: FirstClass Protocol
+Port 511: PassGo
+Port 512: Remote Process Execution (RPE)
+Port 513: rlogin
+Port 514: syslog
+Port 515: Line Printer Daemon (LPD)
+Port 516: videotex
+Port 517: talk
+Port 518: ntalk
+Port 519: unixtime
+Port 520: Routing Information Protocol (RIP)
+Port 521: ripng
+Port 522: User Location Service (ULS)
+Port 523: IBM-DB2
+Port 524: NetWare Core Protocol (NCP)
+Port 525: Timed, Timeserver
+Port 526: newdate
+Port 527: Stock IXChange
+Port 528: Customer IXChange
+Port 529: IRC-SERV
+Port 530: Remote procedure call (RPC)
+Port 531: AOL Instant Messenger (AIM)
+Port 532: netnews
+Port 533: Netwall, For Emergency Broadcasts
+Port 534: MegaMedia Admin, Multimedia Conference Control Tool
+Port 535: IIOP (Internet Inter-ORB Protocol)
+Port 536: opalis-rdv
+Port 537: Networked Media Streaming Protocol
+Port 538: gdomap, GNUstep Distributed Object Mapper
+Port 539: Apertus Technologies Load Determination
+Port 540: uucpd, uucp daemon
+Port 541: uucp-rlogin, uucp over rlogin
+Port 542: commerce, Commerce Applications
+Port 543: klogin, Kerberos login
+Port 544: kshell, Kerberos remote shell
+Port 545: appleqtcsrvr, Apple QuickTime Conferencing
+Port 546: DHCPv6 Client
+Port 547: DHCPv6 Server
+Port 548: Apple Filing Protocol (AFP) over TCP
+Port 549: Hotline protocol
+Port 550: new-rwho, new-who
+Port 551: cybercash, CyberCash Payment Gateway
+Port 552: deviceshare, DeviceShare
+Port 553: pirp, Personal Identification and Related Profiles (P2P)
+Port 554: Real Time Streaming Protocol (RTSP)
+Port 555: phAse Zero backdoor (Phase Zero)
+Port 556: rfs server, Remotefs
+Port 557: openvms-sysipc, Digital Equipment Corporation (DEC) SYSIPC
+Port 558: SDNSKMP, SDNSKMP (Secure Domain Name System Key Management Protocol)
+Port 559: TEEDTAP, TEEDTAP Network Admin
+Port 560: rmonitord, Remote Monitor Service
+Port 561: monitor, monitor
+Port 562: chcmd, IKE-Port (IKE-Port), Protocol for the Internet Key Exchange (IKE)
+Port 563: NNTP over TLS/SSL (NNTPS)
+Port 564: plan 9 file service, Plan 9 File Service
+Port 565: whoami, whoami (Who Am I)
+Port 566: streettalk, StreetTalk
+Port 567: banyan-rpc, banyan-rpc
+Port 568: ms-shuttle, Microsoft shuttle
+Port 569: ms-rome, Microsoft Rome
+Port 570: meter demon, meter demon
+Port 571: meterudemon, meterudemon
+Port 572: sonar, SONAR
+Port 573: banyan-vip, banyan-vip
+Port 574: FTP Software Agent System
+Port 575: VEMMI, VEMMI (Versatile Message Multicast Interface)
+Port 576: ipcd, ipcd (IPCD)
+Port 577: vnas, vnas
+Port 578: ipdd, ipdd (IPDD)
+Port 579: decbsrv, decbsrv (DEC Basic Security Module Audit Port)
+Port 580: SNTP HEARTBEAT, SNTP HEARTBEAT (Simple Network Time Protocol Heartbeat)
+Port 581: Bundle Discovery Protocol
+Port 582: SCC Security, SCC Security
+Port 583: Philips Video-Conferencing, Philips Video-Conferencing
+Port 584: Key Server, Key Server
+Port 585: IMAP4+SSL (Internet Message Access Protocol 4 with SSL/TLS)
+Port 586: Password Change, Password Change
+Port 587: Message Submission (SMTP)
+Port 588: CAL
+Port 589: EyeLink
+Port 590: Remote Framebuffer (RFB) protocol
+Port 591: FileMaker Inc. - HTTP Alternate (FMPro6-HTTP)
+Port 592: Eudora Set, Eudora Set
+Port 593: HTTP RPC Ep Map, HTTP RPC Ep Map (Hypertext Transfer Protocol Remote Procedure Call Endpoint Mapper)
+Port 594: TPIP, TPIP (Transport Independent Convergence for FNA)
+Port 595: CAB Protocol, CAB Protocol (Cloanto Amiga Emulator)
+Port 596: SMSD, SMSD (SMS Remote Control Protocol)
+Port 597: PTC Name Service, PTC Name Service
+Port 598: SCO Web Server Manager 3, SCO Web Server Manager 3
+Port 599: Aeolon Core Protocol, Aeolon Core Protocol (ACP)
+Port 600: Sun IPC server
+Port 601: Reliable Syslog Service
+Port 602: XML-RPC over BEEP
+Port 603: IDXP, Intrusion Detection Exchange Protocol (IDXP)
+Port 604: TUNNEL, TUNNEL profile
+Port 605: SOAP over BEEP
+Port 606: Cray Unified Resource Manager (CURM)
+Port 607: nqs, nqs (Network Queue System)
+Port 608: SIFT/UFT, Sender-Initiated/Unsolicited File Transfer
+Port 609: npmp-trap, npmp-trap (npmp-local)
+Port 610: npmp-local, npmp-local (npmp-gui)
+Port 611: npmp-gui, npmp-gui (npmp-local)
+Port 612: HMMP Indication, HMMP Indication (HMMP-Ind)
+Port 613: HMMP Operation, HMMP Operation (HMMP-Op)
+Port 614: SSLshell, SSLshell (Secure Shell)
+Port 615: Internet Configuration Manager
+Port 616: SCO System Administration Server
+Port 617: SCO Desktop Administration Server
+Port 618: DEI-ICDA, DEI-ICDA (Digital Epha Imaging Utility)
+Port 619: Digital Epha, Digital Epha
+Port 620: SCO WebServer Manager
+Port 621: ESCP, ESCP (ESC/P Remote Port)
+Port 622: Collaborator
+Port 623: ASF Remote Management and Control Protocol
+Port 624: Cryptoadmin
+Port 625: DEC DLM
+Port 626: ASIA
+Port 627: PassGo Tivoli
+Port 628: QMQP, QMQP (Message Handling Services Protocol)
+Port 629: 3Com AMP3
+Port 630: RDA
+Port 631: IPP (Internet Printing Protocol)
+Port 632: bmpp, bmpp (bmpp)
+Port 633: Service Status update (Sterling Software)
+Port 634: ginad, ginad (ginad)
+Port 635: RLZ DBase
+Port 636: LDAP over SSL/TLS (LDAPS)
+Port 637: lanserver, lanserver (lanserver)
+Port 638: mcns-sec, mcns-sec (mcns-sec)
+Port 639: MSDP, MSDP (Multicast Source Discovery Protocol)
+Port 640: entrust-sps, entrust-sps (entrust-sps)
+Port 641: Realsecure, Realsecure (Realsecure Sensor Service)
+Port 642: ESRO-EMSDP V1.3, ESRO-EMSDP V1.3 (ESET Remote Administration)
+Port 643: SANity, SANity (SANity)
+Port 644: OpenLDAP Cluster, OpenLDAP Cluster (OpenLDAP Cluster)
+Port 645: PSSC, PSSC (PSSC)
+Port 646: LDP (Label Distribution Protocol)
+Port 647: DHCP Failover, DHCP Failover
+Port 648: Registry Registrar Protocol (RRP)
+Port 649: Aminet, Aminet (Aminet)
+Port 650: OBEX (Object Exchange Protocol)
+Port 651: IEEE MMS, IEEE MMS (IEEE 802.1X)
+Port 652: DTCP, DTCP (Dynamic Tunnel Configuration Protocol)
+Port 653: RepCmd, RepCmd (RepCmd)
+Port 654: AODV, AODV (Ad-hoc On-demand Distance Vector)
+Port 655: TINC, TINC (TINC VPN)
+Port 656: SPMP, SPMP (SPMP)
+Port 657: RMC, RMC (IBM Remote Monitoring)
+Port 658: TenFold, TenFold (TenFold)
+Port 659: URL Rendezvous, URL Rendezvous (URL Rendezvous Directory for SSM)
+Port 660: MacOS Server Administration (Macserv)
+Port 661: HAP, HAP (HEURISTIC ALGORITHM for Passwords)
+Port 662: PFTP, PFTP
+Port 663: PureNoise, PureNoise (PureNoise)
+Port 664: Secure Aux Bus, Secure Aux Bus (Secure Aux Bus)
+Port 665: Sun DR, Sun DR (Sun DR)
+Port 666: Doom, Doom (Doom Id Software)
+Port 667: campaign contribution disclosures - SDR Technologies
+Port 668: MeComm, MeComm (MeComm)
+Port 669: MeRegister, MeRegister (MeRegister)
+Port 670: VACDSM-SWS, VACDSM-SWS (VACDSM-SWS)
+Port 671: VACDSM-APP, VACDSM-APP (VACDSM-APP)
+Port 672: VACDSM-ECMP, VACDSM-ECMP (VACDSM-ECMP)
+Port 673: CIMPLEX, CIMPLEX (CIMPLEX)
+Port 674: ACAP, ACAP (Application Configuration Access Protocol)
+Port 675: DCTP, DCTP (DCTP)
+Port 676: VPPS-QUA, VPPS-QUA (VPPS-QUA)
+Port 677: Virtual Presence Protocol
+Port 678: GNU Generation Foundation NCP
+Port 679: MRM
+Port 680: entrust-aaas, entrust-aaas (entrust-aaas)
+Port 681: entrust-aams, entrust-aams (entrust-aams)
+Port 682: XFR, XFR (XFR)
+Port 683: CORBA IIOP, CORBA IIOP (CORBA Internet Inter-ORB Protocol)
+Port 684: CORBA IIOP SSL
+Port 685: MDC Port Mapper
+Port 686: Hardware Control Protocol Wismar
+Port 687: asipregistry, asipregistry (asipregistry)
+Port 688: ApplianceWare managment protocol
+Port 689: NMAP, NMAP (NMAP)
+Port 690: VATP, VATP (Velazquez Application Transfer Protocol)
+Port 691: MS Exchange Routing
+Port 692: Hyperwave-ISP
+Port 693: connendp, connendp (connendp)
+Port 694: ha-cluster, ha-cluster (ha-cluster)
+Port 695: IEEE-MMS-SSL, IEEE-MMS-SSL (IEEE-MMS-SSL)
+Port 696: RUSHD, RUSHD (RUSHD)
+Port 697: UUIDGEN, UUIDGEN (UUIDGEN)
+Port 698: OLSR, OLSR (Open Shortest Path First - OLSR)
+Port 699: Access Network
+Port 700: EPP (Extensible Provisioning Protocol)
+Port 701: LMP (Link Management Protocol (LMP))
+Port 702: IRIS over BEEP
+Port 703: CFMX, CFMX (ColdFusion MX)
+Port 704: SILC
+Port 705: AgentX, AgentX (AgentX)
+Port 706: SILC
+Port 707: Borland DSJ
+Port 708: MPLS Communication Protocol
+Port 709: Entrust Key Management Service Handler
+Port 710: Entrust Administration Service Handler
+Port 711: Cisco TDP
+Port 712: TBRPF, TBRPF (Topology Broadcast based on Reverse-Path Forwarding)
+Port 713: IRIS over XPC
+Port 714: IRIS over XPCS
+Port 715: IRIS-LWZ
+Port 716: PANAGRA-SMS, PANAGRA-SMS (PANA Messages)
+Port 717: XBRML, XBRML (XBRML)
+Port 718: PTP Event
+Port 719: PTP General
+Port 720: SMQP, SMQP (SMQP)
+Port 721: NDSAUTH, NDSAUTH (NDS Authentication)
+Port 722: Unknown
+Port 723: Dazuko
+Port 724: Unknown
+Port 725: Unknown
+Port 726: Unknown
+Port 727: Unknown
+Port 728: Unknown
+Port 729: Unknown
+Port 730: Netviewdm1, Netviewdm1 (IBM NetView DM/6000 Server/Client)
+Port 731: Netviewdm2, Netviewdm2 (IBM NetView DM/6000 send/tcp)
+Port 732: Netviewdm3, Netviewdm3 (IBM NetView DM/6000 receive/tcp)
+Port 733: unknown
+Port 734: unknown
+Port 735: unknown
+Port 736: unknown
+Port 737: unknown
+Port 738: unknown
+Port 739: unknown
+Port 740: NETGW, NETGW (NETGW)
+Port 741: netGW, netGW (netGW)
+Port 742: Network based Rev. Cont. Sys.
+Port 743: unknown
+Port 744: Flexible License Manager
+Port 745: unknown
+Port 746: unknown
+Port 747: unknown
+Port 748: unknown
+Port 749: kerberos-adm, kerberos-adm (Kerberos administration)
+Port 750: kerberos-iv, kerberos-iv (Kerberos version IV)
+Port 751: pump, pump (pump)
+Port 752: Kerberos password server
+Port 753: Reverse Routing Header (RRH)
+Port 754: unknown
+Port 755: unknown
+Port 756: unknown
+Port 757: unknown
+Port 758: nlogin, nlogin (NLOGIN)
+Port 759: con, con (con)
+Port 760: ns, ns (ns)
+Port 761: rxapi, rxapi (rxe)
+Port 762: quotad, quotad (quotad)
+Port 763: cycleserv, cycleserv (cycleserv)
+Port 764: omserv, omserv (omserv)
+Port 765: webster, webster (webster)
+Port 766: ansitape, ansitape (ansitape)
+Port 767: phone, phone (phone)
+Port 768: vid, vid (vid)
+Port 769: rtip, rtip (rtip)
+Port 770: cadlock, cadlock (cadlock)
+Port 771: cyclicity, cyclicity (cyclicity)
+Port 772: submit, submit (submit)
+Port 773: notify, notify (notify)
+Port 774: rpasswd, rpasswd (rpasswd)
+Port 775: entomb, entomb (entomb)
+Port 776: wpages, wpages (wpages)
+Port 777: multiling http, multiling-http (Multiling HTTP)
+Port 778: unknown
+Port 779: unknown
+Port 780: wpgs, wpgs (wpgs)
+Port 781: hp-collector, hp-collector (HP Performance Data Collector)
+Port 782: node2n, node2n (node2n)
+Port 783: spamassassin, spamassassin (SpamAssassin)
+Port 784: unknown
+Port 785: unknown
+Port 786: Concert for value delivery
+Port 787: QSC, QSC (QSC)
+Port 788: unknown
+Port 789: unknown
+Port 790: Unknown
+Port 791: Unknown
+Port 792: Unknown
+Port 793: unknown
+Port 794: Unknown
+Port 795: Unknown
+Port 796: Unknown
+Port 797: Unknown
+Port 798: Unknown
+Port 799: Unknown
+Port 800: mdbs_daemon, mdbs_daemon (mdbs_daemon)
+Port 801: Device, Device (device)
+Port 802: Modbus Application Protocol Secure (modbus-appl-proto)
+Port 803: Modbus Secure (modbus-tcp-tls)
+Port 804: unknown
+Port 805: unknown
+Port 806: unknown
+Port 807: Meter Data Management Mgmt Server (mdm-ms)
+Port 808: HTTP Proxy (http-alt)
+Port 809: unknown
+Port 810: FC Printer Port (fcip-port)
+Port 811: unknown
+Port 812: unknown
+Port 813: unknown
+Port 814: unknown
+Port 815: unknown
+Port 816: unknown
+Port 817: unknown
+Port 818: unknown
+Port 819: unknown
+Port 820: unknown
+Port 821: unknown
+Port 822: unknown
+Port 823: unknown
+Port 824: unknown
+Port 825: unknown
+Port 826: unknown
+Port 827: unknown
+Port 828: unknown
+Port 829: unknown
+Port 830: NETCONF over SSH (netconf-ssh)
+Port 831: NETCONF over BEEP (netconf-beep)
+Port 832: NETCONF for SOAP over HTTPS (netconfsoaphttps)
+Port 833: NETCONF for SOAP over BEEP (netconfsoapbeep)
+Port 834: unknown
+Port 835: unknown
+Port 836: unknown
+Port 837: Compressed ACAP (comsat)
+Port 838: unknown
+Port 839: unknown
+Port 840: unknown
+Port 841: unknown
+Port 842: unknown
+Port 843: Adobe Flash Policy Server (Adobe Flash - cross-domain policy file)
+Port 844: unknown
+Port 845: unknown
+Port 846: unknown
+Port 847: unknown
+Port 848: unknown
+Port 849: unknown
+Port 850: unknown
+Port 851: unknown
+Port 852: unknown
+Port 853: unknown
+Port 854: unknown
+Port 855: unknown
+Port 856: unknown
+Port 857: unknown
+Port 858: unknown
+Port 859: unknown
+Port 860: iSCSI (iscsi)
+Port 861: unknown
+Port 862: unknown
+Port 863: unknown
+Port 864: unknown
+Port 865: unknown
+Port 866: unknown
+Port 867: unknown
+Port 868: unknown
+Port 869: unknown
+Port 870: unknown
+Port 871: SUP server (supfilesrv)
+Port 872: unknown
+Port 873: rsync (rsync)
+Port 874: unknown
+Port 875: unknown
+Port 876: unknown
+Port 877: unknown
+Port 878: unknown
+Port 879: unknown
+Port 880: unknown
+Port 881: unknown
+Port 882: unknown
+Port 883: unknown
+Port 884: unknown
+Port 885: unknown
+Port 886: unknown
+Port 887: unknown
+Port 888: IBM Endpoint Manager Remote Control (accessbuilder)
+Port 889: unknown
+Port 890: unknown
+Port 891: unknown
+Port 892: unknown
+Port 893: unknown
+Port 894: unknown
+Port 895: unknown
+Port 896: unknown
+Port 897: unknown
+Port 898: Sun Secure Shell (SSH) (ssh)
+Port 899: unknown
+Port 900: EGP (Extended Gateway Protocol) (egp)
+Port 901: Samba Web Administration Tool (swat)
+Port 902: VMware Server Console (vmware-authd)
+Port 903: VMware Remote Console (vmware-vi-server)
+Port 904: VMware Server Alternate (vmware-server)
+Port 905: unknown
+Port 906: unknown
+Port 907: unknown
+Port 908: unknown
+Port 909: WebSM (websm)
+Port 910: Kerberized Internet Negotiation of Keys (KINK) (kink)
+Port 911: unknown
+Port 912: unknown
+Port 913: unknown
+Port 914: unknown
+Port 915: unknown
+Port 916: unknown
+Port 917: unknown
+Port 918: unknown
+Port 919: unknown
+Port 920: unknown
+Port 921: unknown
+Port 922: unknown
+Port 923: unknown
+Port 924: unknown
+Port 925: unknown
+Port 926: unknown
+Port 927: unknown
+Port 928: unknown
+Port 929: unknown
+Port 930: unknown
+Port 931: unknown
+Port 932: unknown
+Port 933: unknown
+Port 934: unknown
+Port 935: unknown
+Port 936: unknown
+Port 937: unknown
+Port 938: unknown
+Port 939: unknown
+Port 940: unknown
+Port 941: unknown
+Port 942: unknown
+Port 943: unknown
+Port 944: unknown
+Port 945: unknown
+Port 946: unknown
+Port 947: unknown
+Port 948: unknown
+Port 949: unknown
+Port 950: unknown
+Port 951: unknown
+Port 952: unknown
+Port 953: unknown
+Port 954: unknown
+Port 955: unknown
+Port 956: unknown
+Port 957: unknown
+Port 958: unknown
+Port 959: unknown
+Port 960: unknown
+Port 961: unknown
+Port 962: unknown
+Port 963: unknown
+Port 964: unknown
+Port 965: unknown
+Port 966: unknown
+Port 967: unknown
+Port 968: unknown
+Port 969: unknown
+Port 970: unknown
+Port 971: unknown
+Port 972: unknown
+Port 973: unknown
+Port 974: unknown
+Port 975: unknown
+Port 976: unknown
+Port 977: unknown
+Port 978: unknown
+Port 979: unknown
+Port 980: unknown
+Port 981: unknown
+Port 982: unknown
+Port 983: unknown
+Port 984: unknown
+Port 985: unknown
+Port 986: unknown
+Port 987: unknown
+Port 988: unknown
+Port 989: FTPS Protocol (data) (ftps-data)
+Port 990: FTPS Protocol (control) (ftps)
+Port 991: unknown
+Port 992: unknown
+Port 993: IMAPS (imaps)
+Port 994: unknown
+Port 995: POP3S (pop3s)
+Port 996: unknown
+Port 997: unknown
+Port 998: unknown
+Port 999: Kerberos administration (kerberos-adm)
+Port 1000: cadlock, cadkey (rmtcmd)
+Port 1001: unknown
+Port 1002: unknown
+Port 1003: unknown
+Port 1004: unknown
+Port 1005: unknown
+Port 1006: unknown
+Port 1007: unknown
+Port 1008: unknown
+Port 1009: unknown
+Port 1010: unknown
+Port 1011: unknown
+Port 1012: unknown
+Port 1013: unknown
+Port 1014: unknown
+Port 1015: unknown
+Port 1016: unknown
+Port 1017: unknown
+Port 1018: unknown
+Port 1019: unknown
+Port 1020: unknown
+Port 1021: unknown
+Port 1022: SSH Remote Login Protocol (ssh)
+Port 1023: Reserved
+
+When I provided a specific service name for a port, it means that port is typically associated with that service as a default port. 
